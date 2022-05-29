@@ -80,7 +80,7 @@ author:
   avatar: "profile-mine.jpg"
   bio: "Doctoral student at Technische Universität Berlin"
   location: "Berlin, Germany"
-  employer: "TU Berlin"
+  employer: 
   googlescholar: #"https://scholar.google.com/citations?user=QDXADSEAAAAJ&hl=zh-CN"
   email: "ogross@math.tu-berlin.de"
   uri:
