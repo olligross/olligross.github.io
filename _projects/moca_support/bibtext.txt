@@ -1,0 +1,7 @@
+@article{zhang2020moca,
+    author    = {Wenwei Zhang and Zhe Wang and Chen Change Loy},
+    title     = {Exploring Data Augmentation for Multi-Modality 3D Object Detection},
+    journal   = {CoRR},
+    volume    = {abs/2012.12741},
+    year      = {2020}
+}
