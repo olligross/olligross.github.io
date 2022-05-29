@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/FBP
 conf: 'ACM Transactions on Graphics, SIGGRAPH 2022'
 conf_shortname: 'ACM Transactions on Graphics, SIGGRAPH 2022'
-year: 2019
+year: 2022
 author: Marcel Padilla, <strong>Oliver Gross</strong>, Felix Knöppel, Albert Chern, Ulrich Pinkall, Peter Schröder
 codeurl: https://tubcloud.tu-berlin.de/s/TwMKYTSj5b2NrbR
 #paperurl: https://arxiv.org/abs/1909.03850

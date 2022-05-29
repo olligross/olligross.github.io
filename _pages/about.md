@@ -14,6 +14,6 @@ I also work closely with [Prof. Peter Schröder](http://users.cms.caltech.edu/~p
 Recent News
 ------------------------
 
-I was invited by Prof. Olga Diamanti to give a talk on **Riemannian Geometry in Plasma Physics** in the geometry seminar at TU Graz. (May, 2022)
+I was invited by Prof. Olga Diamanti to give a talk on the **Riemannian Geometry in Plasma Physics** in the geometry seminar at TU Graz. (May, 2022)
 
-Our paper **Filament Based Plasma** is accepted by ACM Transactions on Graphics and will be prsented at SIGGRAP 2022, Vancouver. (Apr., 2022)
+Our paper **Filament Based Plasma** was accepted by ACM Transactions on Graphics and will be presented at SIGGRAPH 2022, Vancouver. (Apr., 2022)
