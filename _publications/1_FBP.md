@@ -1,6 +1,6 @@
 ---
 title: "Filament Based Plasma"
-#link: https://www3.math.tu-berlin.de/geometrie/wp_padilla/filament-based-plasma/
+link: https://www3.math.tu-berlin.de/geometrie/wp_padilla/filament-based-plasma/
 collection: publications
 permalink: /publication/FBP
 conf: 'ACM Transactions on Graphics, SIGGRAPH 2022'
