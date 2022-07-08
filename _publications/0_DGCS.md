@@ -8,7 +8,7 @@ year: 2021
 author: Ulrich Pinkall, <strong>Oliver Gross</strong>
 #codeurl: https://tubcloud.tu-berlin.de/s/TwMKYTSj5b2NrbR
 #paperurl: https://arxiv.org/abs/1909.03850
-paperurl: /publications/papers/DGCS_TUB_reduced.pdf
+booklink: /publications/papers/DGCS_TUB_reduced.pdf
 #projecturl: https://www3.math.tu-berlin.de/geometrie/wp_padilla/filament-based-plasma/
 #posterlink: /files/mmMOT_poster_final.pdf
 additional: true
