@@ -43,7 +43,7 @@
         ({{ post.conf_shortname}})
       {% endif %}, {{post.year}}</font>
     {% endif %}
-    
+
     {% if post.highlight %}
     <br><font size='3' color="Tomato">{{post.highlight}}</font>
     {% endif %}
@@ -61,8 +61,11 @@
       {% if post.posterlink %}
       <font size='3' color="LightSkyBlue"><a href=" {{ post.posterlink }} " >[Poster]</a></font>
       {% endif %}
-      
-    
+      {% if post.booklink %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.booklink }} " >[Book]</a></font>
+      {% endif %}
+
+
   {% endif %}
   <hr width="80%">
   </article>
