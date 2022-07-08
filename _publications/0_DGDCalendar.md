@@ -10,7 +10,7 @@ author: <strong>Oliver Gross</strong>, Carl O. R. Lutz
 #codeurl: https://tubcloud.tu-berlin.de/s/TwMKYTSj5b2NrbR
 #paperurl: https://arxiv.org/abs/1909.03850
 #booklink: /publications/papers/DGCS_TUB_reduced.pdf
-#projecturl: https://www3.math.tu-berlin.de/geometrie/wp_padilla/filament-based-plasma/
+projecturl: /projects/DGDCalendar/DGDCalendar_project.html
 #posterlink: /files/mmMOT_poster_final.pdf
 additional: true
 
