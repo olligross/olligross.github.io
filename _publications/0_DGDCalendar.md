@@ -1,5 +1,6 @@
 ---
 title: "DGD-Calendar"
+link: /projects/DGDCalendar/DGDCalendar_project.html
 collection: publications
 permalink: /publication/DGDCalendar
 #conf: 'preprint'
