@@ -18,7 +18,7 @@ var addressPoints = [
     "Seminar of the Center of Visual Computing, Computer Science and Engineering UC San Diego - July 2022 - San Diego, CA",
     32.88022110320485,
     -117.23401156801071
-  ]
+  ],
   [
     "The interdisciplinary world of tangling - Sept. 2022 - Potsdam, Germany",
     52.393726076914184,
