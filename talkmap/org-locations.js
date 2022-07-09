@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "ACM SIGGRAPH 2022 - Aug. 2022 - Vancouver, Canada",
+    49.28884453419658,
+    -123.11121727243854
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Geometry Seminar TU Graz - May 2022 - Graz, Austria",
+    47.06520031641397,
+    15.450953738702188
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "DGD-Days Annual meeting of the SFB/TRR 109 - Oct. 2021 - Landshut, Germany",
+    48.5565232410404,
+    12.201334361770412
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Seminar of the Center of Visual Computing, Computer Science and Engineering UC San Diego - July 2022 - San Diego, CA",
+    32.88022110320485,
+    -117.23401156801071
   ]
 ];
