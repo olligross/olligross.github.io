@@ -1,5 +1,6 @@
 ---
 title: "Differential Geometry: From Elastic Curves to Willmore Surfaces"
+link: /projects/DGCS/DGCS_project.html
 collection: publications
 permalink: /publication/DGCS
 conf: 'preprint'
