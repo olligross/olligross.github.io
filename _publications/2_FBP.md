@@ -1,5 +1,5 @@
 ---
-teaser: /images/FBP_teaser.jpg
+header.teaser: /images/FBP_teaser.jpg
 title: "Filament Based Plasma"
 link: /projects/FBP/FBP_project.html #https://www3.math.tu-berlin.de/geometrie/wp_padilla/filament-based-plasma/
 collection: publications
