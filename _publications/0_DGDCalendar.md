@@ -6,7 +6,7 @@ permalink: /publication/DGDCalendar
 #conf: 'preprint'
 #conf_shortname: 'ACM Transactions on Graphics, SIGGRAPH 2022'
 year: 2019, 2020, 2021
-author: Oliver Gross, Carl O. R. Lutz
+author: <em>Oliver Gross, Carl O. R. Lutz</em>
 #codeurl: https://tubcloud.tu-berlin.de/s/TwMKYTSj5b2NrbR
 #paperurl: https://arxiv.org/abs/1909.03850
 #booklink: /publications/papers/DGCS_TUB_reduced.pdf

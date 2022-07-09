@@ -6,7 +6,7 @@ permalink: /publication/DGCS
 conf: 'preprint'
 #conf_shortname: 'ACM Transactions on Graphics, SIGGRAPH 2022'
 year: 2021
-author: Ulrich Pinkall, Oliver Gross
+author: <em>Ulrich Pinkall, Oliver Gross</em>
 #codeurl: https://tubcloud.tu-berlin.de/s/TwMKYTSj5b2NrbR
 #paperurl: https://arxiv.org/abs/1909.03850
 booklink: /publications/papers/DGCS_TUB_reduced.pdf
