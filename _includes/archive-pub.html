@@ -26,58 +26,48 @@
       </div>
     {% endif %}
 
-    <table align=center width=1100>
-        <left>
-            <h1>Paper</h1>
-        </left>
-        <tr>
-            <td><a href="/publications/papers/Filament_Based_Plasma.pdf"><img style="height:130px" src="/images/FBP_teaser.jpg" /></a></td>
 
-            <font size='4' itemprop="headline"><strong>
-              {% if post.link %}
-                <!--<a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>-->
-                <!--<a href="{{ post.link }}" target="_blank"> {{ title }} </a>-->
-                <a href="{{ post.link }}"> {{ title }} </a>
-              {% else %}
-                {{ title }}
-              {% endif %}
-            </strong></font>
+    <font size='4' itemprop="headline"><strong>
+      {% if post.link %}
+        <!--<a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>-->
+        <!--<a href="{{ post.link }}" target="_blank"> {{ title }} </a>-->
+        <a href="{{ post.link }}"> {{ title }} </a>
+      {% else %}
+        {{ title }}
+      {% endif %}
+    </strong></font>
 
-            {% if post.author %}
-              <br><font size='3'>{{ post.author }}</font>
-            {% endif %}
+    {% if post.author %}
+      <br><font size='3'>{{ post.author }}</font>
+    {% endif %}
 
-            {% if post.conf %}
-              <br><font size='3'>{{ post.conf }}{% if post.conf_shortname %}
-                ({{ post.conf_shortname}})
-              {% endif %}, {{post.year}}</font>
-            {% endif %}
+    {% if post.conf %}
+      <br><font size='3'>{{ post.conf }}{% if post.conf_shortname %}
+        ({{ post.conf_shortname}})
+      {% endif %}, {{post.year}}</font>
+    {% endif %}
 
-            {% if post.highlight %}
-            <br><font size='3' color="Tomato">{{post.highlight}}</font>
-            {% endif %}
+    {% if post.highlight %}
+    <br><font size='3' color="Tomato">{{post.highlight}}</font>
+    {% endif %}
 
-            {% if post.additional %}<br>
-              {% if post.paperurl %}
-              <font size='3' color="LightSkyBlue"><a href=" {{ post.paperurl }} " >[Paper]</a></font>
-              {% endif %}
-              {% if post.codeurl %}
-              <font size='3' color="LightSkyBlue"><a href=" {{ post.codeurl }} " >[Code]</a></font>
-              {% endif %}
-              {% if post.projecturl %}
-              <font size='3' color="LightSkyBlue"><a href=" {{ post.projecturl }} " >[Project Page]</a></font>
-              {% endif %}
-              {% if post.posterlink %}
-              <font size='3' color="LightSkyBlue"><a href=" {{ post.posterlink }} " >[Poster]</a></font>
-              {% endif %}
-              {% if post.booklink %}
-              <font size='3' color="LightSkyBlue"><a href=" {{ post.booklink }} " >[Book]</a></font>
-              {% endif %}
-          {% endif %}
-        </tr>
-    </table>
-
-
+    {% if post.additional %}<br>
+      {% if post.paperurl %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.paperurl }} " >[Paper]</a></font>
+      {% endif %}
+      {% if post.codeurl %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.codeurl }} " >[Code]</a></font>
+      {% endif %}
+      {% if post.projecturl %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.projecturl }} " >[Project Page]</a></font>
+      {% endif %}
+      {% if post.posterlink %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.posterlink }} " >[Poster]</a></font>
+      {% endif %}
+      {% if post.booklink %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.booklink }} " >[Book]</a></font>
+      {% endif %}
+    {% endif %}
   <hr width="80%">
   </article>
 </div>
