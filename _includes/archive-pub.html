@@ -13,6 +13,12 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
+
+  <table align=center width=1100>
+      <tr>
+      <td><a href="./figs/Filament_Based_Plasma.pdf"><img style="height:130px" src="/images/FBP_teaser.jpg" /></a></td>
+      <td>
+
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -68,6 +74,11 @@
       <font size='3' color="LightSkyBlue"><a href=" {{ post.booklink }} " >[Book]</a></font>
       {% endif %}
    {% endif %}
+
+ </td>
+</tr>
+</table>
+
   <hr width="80%">
   </article>
 </div>
