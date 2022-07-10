@@ -17,7 +17,7 @@ News
 
 * We will present our paper **Filament Based Plasma** at SIGGRAPH 20022, Vancouver. (Aug., 2022)
 
-* I was invited by Prof. Albert Chern to give a talk on the **Filament Based Plasma** at UC San Diego. (July, 2022)
+* I was invited by Prof. Albert Chern to give a talk on the **Lagrangian Modeling and Geometric Optimization in Plasma Physics** at UC San Diego. (July, 2022)
 
 * I was invited by Prof. Olga Diamanti to give a talk on the **Riemannian Geometry in Plasma Physics** in the geometry seminar at TU Graz. (May, 2022)
 
