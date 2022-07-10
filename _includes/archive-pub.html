@@ -1,45 +1,75 @@
-<table align=center width=1100>
-    <left>
-        <h1>Paper</h1>
-    </left>
-    <tr>
-        <!--<td width=300px align=left>-->
-        <!-- <a href="http://arxiv.org/pdf/1603.08511.pdf"> -->
-        <!-- <td><a href="#"><img class="layered-paper-big" style="height:175px" src="./resources/images/paper.png"/></a></td> -->
-        <td><a href="./figs/Filament_Based_Plasma.pdf"><img style="height:130px" src="./figs/22-06-24_09-11-Glow_10k.jpg" /></a></td>
-        <!--<td><a href="https://arxiv.org/pdf/1904.09571.pdf"><img style="height:180px" src="./support/paper_3d.png"/></a></td>-->
-        <td><span style="font-size:14pt">Filament Based Plasma<br><br>
-                <i>Marcel Padilla, Oliver Gross, Felix Kn&ouml;ppel, Ulrich Pinkall and Peter Schr&ouml;der</i><br><br>
-                ACM Trans. Graph. 41, 4, Article 153 (July 2022), 14 pages. <a href="https://doi.org/10.1145/3528223.3530102"></a>
-        </td>
-    </tr>
-</table>
-<table align=center width=400px>
-    <tr>
-        <td><span style="font-size:14pt">
-                <center>
-                    <a href="./figs/Filament_Based_Plasma.pdf">[PDF]</a>
-                    <!--<a href="https://arxiv.org/pdf/1904.09571.pdf">[PDF]</a>-->
-                </center>
-        </td>
+{% include base_path %}
 
-        <td><span style="font-size:14pt"><center>
-        <a href="./figs/Filament_Based_Video.mp4">[Video]</a>
-        </center></td>
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
 
-        <td><span style="font-size:14pt"><center>
-        <a href="https://tubcloud.tu-berlin.de/s/TwMKYTSj5b2NrbR/download">[Code]</a>
-        </center></td>
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
 
-        <td><span style="font-size:14pt"><center>
-        <a href="./figs/FBP_Poster_final.jpg">[Poster]</a>
-        </center></td>
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
 
-        <!--<td><span style="font-size:14pt">-->
-                <!--<center>-->
-                    <!--<a href="./figs/bibtex.txt">[BibTex]</a>-->
-                    <!--<a href="./support/TGaGa_bibtex.txt">[Bibtex]</a>-->
-              <!--  </center>-->
-        <!--</td>-->
-    </tr>
-</table>
+
+    <font size='4' itemprop="headline"><strong>
+      {% if post.link %}
+        <!--<a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>-->
+        <!--<a href="{{ post.link }}" target="_blank"> {{ title }} </a>-->
+        <a href="{{ post.link }}"> {{ title }} </a>
+      {% else %}
+        {{ title }}
+      {% endif %}
+    </strong></font>
+
+    {% if post.author %}
+      <br><font size='3'>{{ post.author }}</font>
+    {% endif %}
+
+    {% if post.conf %}
+      <br><font size='3'>{{ post.conf }}{% if post.conf_shortname %}
+        ({{ post.conf_shortname}})
+      {% endif %}, {{post.year}}</font>
+    {% endif %}
+
+    {% if post.highlight %}
+    <br><font size='3' color="Tomato">{{post.highlight}}</font>
+    {% endif %}
+
+    {% if post.additional %}<br>
+      {% if post.paperurl %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.paperurl }} " >[Paper]</a></font>
+      {% endif %}
+      {% if post.codeurl %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.codeurl }} " >[Code]</a></font>
+      {% endif %}
+      {% if post.projecturl %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.projecturl }} " >[Project Page]</a></font>
+      {% endif %}
+      {% if post.posterlink %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.posterlink }} " >[Poster]</a></font>
+      {% endif %}
+      {% if post.booklink %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.booklink }} " >[Book]</a></font>
+      {% endif %}
+   {% endif %}
+
+
+  <hr width="80%">
+  </article>
+</div>
