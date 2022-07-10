@@ -1,0 +1,13 @@
+@article{Padilla:2022:Plasma,
+  author    = {Marcel Padilla and Oliver Gross and Felix Kn\"{o}ppel and Ulrich Pinkall and Peter Schr\"{o}der},
+  title     = {Filament Based Plasma},
+  journal   = {ACM Transaction on Graphics},
+  year      = {2022},
+  month     = {07},
+  volume    = {41},
+  number    = {4},
+  articleno = {153},
+  doi       = {https://doi.org/10.1145/3528223.3530102},
+  publisher = {ACM},
+  address   = {New York, NY, USA}
+}
