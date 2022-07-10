@@ -6,8 +6,3 @@ author_profile: true
 ---
 
 <p> TODO </p>
-
-
-{% for post in site.publications reversed %}
-  {% include archive-pub.html %}
-{% endfor %}
