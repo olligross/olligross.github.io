@@ -16,7 +16,7 @@ Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I cr
 News
 ------------------------
 
-* We will present our paper **Filament Based Plasma** at SIGGRAPH 20022, Vancouver. (Aug., 2022)
+* We will present our paper **Filament Based Plasma** at SIGGRAPH 2022, Vancouver. (Aug., 2022)
 
 * I was invited by Prof. Albert Chern to give a talk on the **Lagrangian Modeling and Geometric Optimization in Plasma Physics** at UC San Diego. (July, 2022)
 
