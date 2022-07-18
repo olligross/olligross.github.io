@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Discrete Geometric Structures 2022 - Aug. 2022 - Vienna, Austria"
+    48.19877912238055,
+    16.36883399275352
+  ],
+  [
     "ACM SIGGRAPH 2022 - Aug. 2022 - Vancouver, Canada",
     49.28884453419658,
     -123.11121727243854
