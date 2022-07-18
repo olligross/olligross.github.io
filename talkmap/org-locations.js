@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Discrete Geometric Structures 2022 - Aug. 2022 - Vienna, Austria"
+    "Discrete Geometric Structures 2022 - Aug. 2022 - Vienna, Austria",
     48.19877912238055,
     16.36883399275352
   ],
