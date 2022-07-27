@@ -18,9 +18,9 @@ News
 
 * We will present our paper **Filament Based Plasma** at [SIGGRAPH 2022](https://s2022.siggraph.org/?utm_campaign=Registration%20Google%20Branded%20Search%20Ads&utm_source=search&utm_medium=search&utm_term&utm_content&cpn_id=628e734fede4f87920569773&e_id=60f70f258f0f937b1fd99273&gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCaJWq77rnpqAkFD4CXwuc4P1eCT1JivsGiyIgRmlyl6pH3FLh4Y1AQaAvAzEALw_wcB), Vancouver. (Aug., 2022)
 
-* I was invited by Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/) to give a talk on the **Lagrangian Modeling and Geometric Optimization in Plasma Physics** at UC San Diego. (July, 2022)
+* I was invited by [Prof. Albert Chern](https://cseweb.ucsd.edu/~alchern/) to give a talk on the **Lagrangian Modeling and Geometric Optimization in Plasma Physics** at UC San Diego. (July, 2022)
 
-* I was invited by Prof. [Olga Diamanti](https://olga-diamanti.net) to give a talk on the **Riemannian Geometry in Plasma Physics** in the geometry seminar at TU Graz. (May, 2022)
+* I was invited by [Prof. Olga Diamanti](https://olga-diamanti.net) to give a talk on the **Riemannian Geometry in Plasma Physics** in the geometry seminar at TU Graz. (May, 2022)
 
 <!---
 * Our paper **Filament Based Plasma** was accepted by ACM Transactions on Graphics and will be presented at SIGGRAPH 2022, Vancouver. (Apr., 2022)
