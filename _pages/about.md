@@ -16,6 +16,12 @@ Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I cr
 News
 ------------------------
 
+* [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/) invited me to be a visiting graduate researcher at [Caltech](https://www.caltech.edu) from January to July 2023.
+
+* Our **Filament Based Plasma** paper will be featured in the 2023 calendar of the [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de/index.jsp)
+
+* I presented our paper **Filament Based Plasma** at the [Discrete Geometric Structures](www.geometrie.tuwien.ac.at/ig/events/dgs2022) workshop, Vienna. (Aug., 2022)
+
 * I presented our paper **Filament Based Plasma** at [SIGGRAPH 2022](https://s2022.siggraph.org/?utm_campaign=Registration%20Google%20Branded%20Search%20Ads&utm_source=search&utm_medium=search&utm_term&utm_content&cpn_id=628e734fede4f87920569773&e_id=60f70f258f0f937b1fd99273&gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCaJWq77rnpqAkFD4CXwuc4P1eCT1JivsGiyIgRmlyl6pH3FLh4Y1AQaAvAzEALw_wcB), Vancouver. (Aug., 2022)
 
 * I was invited by [Prof. Albert Chern](https://cseweb.ucsd.edu/~alchern/) to give a talk on the **Lagrangian Modeling and Geometric Optimization in Plasma Physics** at UC San Diego. (July, 2022)
