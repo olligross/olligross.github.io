@@ -28,5 +28,10 @@ var addressPoints = [
     "The interdisciplinary world of tangling - Sept. 2022 - Potsdam, Germany",
     52.393726076914184,
     13.13009927215918
+  ],
+  [
+    "Bellan Plasma Group Seminar, Caltech - February 2023 - Pasadena, CA",
+    34.13925582073689, 
+    -118.12403364984841
   ]
 ];

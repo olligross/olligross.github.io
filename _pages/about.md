@@ -15,6 +15,13 @@ Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I cr
 
 News
 ------------------------
+* I was invited by [Prof. Paul M. Bellan](https://www.eas.caltech.edu/people/pbellan) to give a talk on **A Geometric Approach to Magnetic Relaxation** in the [Bellan Plasma Group](http://www.bellanplasmagroup.caltech.edu) Seminar at [Caltech](https://www.caltech.edu). (February, 2023)
+
+* I am currently a visiting graduate researcher at [Caltech](https://www.caltech.edu) supervised by [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/)
+
+* Our paper **Filament Based Plasma** is featured in the 2023 [Calendar](https://www.dfg.de/dfg_magazin/aus_der_forschung/dfg_kalender_2023/index.html) of the [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de/index.jsp)
+
+<!---
 
 * [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/) invited me to be a visiting graduate researcher at [Caltech](https://www.caltech.edu) from January to July 2023.
 
@@ -28,6 +35,5 @@ News
 
 * I was invited by [Prof. Olga Diamanti](https://olga-diamanti.net) to give a talk on the **Riemannian Geometry in Plasma Physics** in the geometry seminar at TU Graz. (May, 2022)
 
-<!---
 * Our paper **Filament Based Plasma** was accepted by ACM Transactions on Graphics and will be presented at SIGGRAPH 2022, Vancouver. (Apr., 2022)
 -->
