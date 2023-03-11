@@ -33,5 +33,10 @@ var addressPoints = [
     "Bellan Plasma Group Seminar, Caltech - February 2023 - Pasadena, CA",
     34.13925582073689, 
     -118.12403364984841
+  ],
+  [
+    "CMX Student/Postdoc Seminar, Caltech - March 2023 - Pasadena, CA",
+    34.13975937163443, 
+    -118.12384138445006
   ]
 ];
