@@ -15,6 +15,8 @@ Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I cr
 
 News
 ------------------------
+* I presented our work on **Filament Based Plasma** in the [CMX Student/Postdoc Seminar](http://cmx.caltech.edu) at [Caltech](https://www.caltech.edu)
+
 * I was invited by [Prof. Paul M. Bellan](https://www.eas.caltech.edu/people/pbellan) to give a talk on **A Geometric Approach to Magnetic Relaxation** in the [Bellan Plasma Group](http://www.bellanplasmagroup.caltech.edu) Seminar at [Caltech](https://www.caltech.edu). (February, 2023)
 
 * I am currently a visiting graduate researcher at [Caltech](https://www.caltech.edu) supervised by [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/)
