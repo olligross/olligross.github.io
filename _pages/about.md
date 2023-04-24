@@ -18,9 +18,14 @@ News
 
 <ul>
     <li>I presented our work on <strong>Filament Based Plasma</strong> in the <a href="http://cmx.caltech.edu">CMX Student/Postdoc Seminar</a> at <a href="https://www.caltech.edu">Caltech</a></li>
-    <li>I was invited by <a href="https://www.eas.caltech.edu/people/pbellan">Prof. Paul M. Bellan</a> to give a talk on <strong>A Geometric Approach to Magnetic Relaxation</strong> in the <a href="http://www.bellanplasmagroup.caltech.edu">Bellan Plasma Group</a> Seminar at <a href="https://www.caltech.edu">Caltech</a>. (February, 2023)</li>
+    <li>I was invited by <a href="https://www.eas.caltech.edu/people/pbellan">Prof. Paul M. Bellan</a> to give a talk on <strong>A Geometric Approach to Magnetic Relaxation</strong> in the <a href="http://www.bellanplasmagroup.caltech.edu">Bellan Plasma Group</a> Seminar at <a href="https://www.caltech.edu">Caltech</a></li>
     <li>I am currently a visiting graduate researcher at <a href="https://www.caltech.edu">Caltech</a> supervised by <a href="http://users.cms.caltech.edu/~ps/">Prof. Peter Schröder</a></li>
     <li>Our paper <strong>Filament Based Plasma</strong> is featured in the 2023 <a href="https://www.dfg.de/dfg_magazin/aus_der_forschung/dfg_kalender_2023/index.html">Calendar</a> of the <a href="https://www.dfg.de/index.jsp">Deutsche Forschungsgemeinschaft (DFG)</a></li>
+    <li>I presented our paper <strong>Filament Based Plasma</strong> at the <a href="www.geometrie.tuwien.ac.at/ig/events/dgs2022">Discrete Geometric Structures</a> workshop, Vienna</li>
+    <li>I presented our paper <strong>Filament Based Plasma</strong> at <a href="https://s2022.siggraph.org/?utm_campaign=Registration%20Google%20Branded%20Search%20Ads&utm_source=search&utm_medium=search&utm_term&utm_content&cpn_id=628e734fede4f87920569773&e_id=60f70f258f0f937b1fd99273&gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCaJWq77rnpqAkFD4CXwuc4P1eCT1JivsGiyIgRmlyl6pH3FLh4Y1AQaAvAzEALw_wcB">SIGGRAPH 2022</a>, Vancouver</li>
+    <li>I was invited by <a href="https://cseweb.ucsd.edu/~alchern/">Prof. Albert Chern</a> to give a talk on the <strong>Lagrangian Modeling and Geometric Optimization in Plasma Physics</strong> at UC San Diego</li>
+    <li>I was invited by <a href="https://olga-diamanti.net">Prof. Olga Diamanti</a> to give a talk on the <strong>Riemannian Geometry in Plasma Physics</strong> in the geometry seminar at TU Graz</li>
+    <li>Our paper <strong>Filament Based Plasma</strong> was accepted by ACM Transactions on Graphics and will be presented at SIGGRAPH 2022, Vancouver</li>
 </ul>
 </div>
 
