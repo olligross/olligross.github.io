@@ -13,7 +13,7 @@ I also work closely with [Prof. Peter Schröder](http://users.cms.caltech.edu/~p
 
 Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I create the [DGD-Calendar](https://olligross.github.io/projects/DGDCalendar/DGDCalendar_project.html). Our goal is to present the current research of the SFB/TRR 109 in a visually appealing way. In doing so, we hope to promote further interdisciplinary collaborations. Above all, we want to give experts and interested non-professionals the opportunity to enjoy the beauty of geometry with us. 
 
-News
+**News**
 <div style="height: 300px; overflow-y: scroll;">
 
 <ul>
