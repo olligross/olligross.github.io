@@ -41,7 +41,7 @@ var addressPoints = [
   ],
   [
     "CSE Pixel Cafe, UC San Diego - April 2023 - San Diego, CA",
-    32.88022110320485,
-    -117.23401156801071
+    32.88198978329932, 
+    -117.23338402746064
   ]
 ];
