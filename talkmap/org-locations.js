@@ -38,5 +38,10 @@ var addressPoints = [
     "CMX Student/Postdoc Seminar, Caltech - March 2023 - Pasadena, CA",
     34.13975937163443, 
     -118.12384138445006
+  ],
+  [
+    "CSE Pixel Cafe, UC San Diego - April 2023 - San Diego, CA",
+    32.88022110320485,
+    -117.23401156801071
   ]
 ];
