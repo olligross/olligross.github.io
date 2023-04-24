@@ -17,6 +17,8 @@ Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I cr
 <div style="height: 300px; overflow-y: scroll;">
 
 <ul>
+    <li>I was selected to participate in the 10th <a href="https://www.heidelberg-laureate-forum.org">Heidelberg Laureate Forum</a>(October 2023)</li>
+    <li>I was invited by <a href="https://cseweb.ucsd.edu/~alchern/">Prof. Albert Chern</a> to give a talk on the <strong>Shifting Shapes with Shape Shifts</strong> in the Pixel Cafe in the <a href="https://cse.ucsd.edu">CSE</a> department at <a href="https://ucsd.edu">UC San Diego</a>(April 2023)</li>
     <li>I presented our work on <strong>Filament Based Plasma</strong> in the <a href="http://cmx.caltech.edu">CMX Student/Postdoc Seminar</a> at <a href="https://www.caltech.edu">Caltech</a></li>
     <li>I was invited by <a href="https://www.eas.caltech.edu/people/pbellan">Prof. Paul M. Bellan</a> to give a talk on <strong>A Geometric Approach to Magnetic Relaxation</strong> in the <a href="http://www.bellanplasmagroup.caltech.edu">Bellan Plasma Group</a> Seminar at <a href="https://www.caltech.edu">Caltech</a></li>
     <li>I am currently a visiting graduate researcher at <a href="https://www.caltech.edu">Caltech</a> supervised by <a href="http://users.cms.caltech.edu/~ps/">Prof. Peter Schröder</a></li>
