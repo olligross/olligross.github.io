@@ -13,6 +13,17 @@ I also work closely with [Prof. Peter Schröder](http://users.cms.caltech.edu/~p
 
 Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I create the [DGD-Calendar](https://olligross.github.io/projects/DGDCalendar/DGDCalendar_project.html). Our goal is to present the current research of the SFB/TRR 109 in a visually appealing way. In doing so, we hope to promote further interdisciplinary collaborations. Above all, we want to give experts and interested non-professionals the opportunity to enjoy the beauty of geometry with us. 
 
+<div style="height: 300px; overflow-y: scroll;">
+  <h2>News</h2>
+  <ul>
+    <li>I presented our work on Filament Based Plasma in the CMX Student/Postdoc Seminar at Caltech</li>
+    <li>I was invited by Prof. Paul M. Bellan to give a talk on A Geometric Approach to Magnetic Relaxation in the Bellan Plasma Group Seminar at Caltech (February, 2023)</li>
+    <li>I am currently a visiting graduate researcher at Caltech supervised by Prof. Peter Schröder</li>
+    <li>Our paper Filament Based Plasma is featured in the 2023 Calendar of the Deutsche Forschungsgemeinschaft (DFG)</li>
+  </ul>
+</div>
+
+<!---
 News
 ------------------------
 * I presented our work on **Filament Based Plasma** in the [CMX Student/Postdoc Seminar](http://cmx.caltech.edu) at [Caltech](https://www.caltech.edu)
@@ -23,7 +34,6 @@ News
 
 * Our paper **Filament Based Plasma** is featured in the 2023 [Calendar](https://www.dfg.de/dfg_magazin/aus_der_forschung/dfg_kalender_2023/index.html) of the [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de/index.jsp)
 
-<!---
 
 * [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/) invited me to be a visiting graduate researcher at [Caltech](https://www.caltech.edu) from January to July 2023.
 
