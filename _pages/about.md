@@ -17,7 +17,7 @@ Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I cr
 <div style="height: 300px; overflow-y: scroll;">
 
 <ul>
-    <li>I presented a poster about our paper <strong>Motion from Shape Change</strong> as part of <a href="[https://www.cms.caltech.edu/news-events/meeting-of-the-minds](https://www.admissions.caltech.edu/visit/visit-campus/summer-preview-women-stem)">Caltech's Women in STEM program</a> (Aug 2023)</li>
+    <li>I presented a poster about our paper <strong>Motion from Shape Change</strong> as part of <a href="https://www.admissions.caltech.edu/visit/visit-campus/summer-preview-women-stem">Caltech's Women in STEM program</a> (Aug 2023)</li>
     <li>Our paper <strong>Plasma Knots</strong> was accepted for publication in <a href="https://www.sciencedirect.com/journal/physics-letters-a">Physics Letters A</a>(June 2023)</li>
     <li>I present a poster about our paper <strong>Motion from Shape Change</strong> at the <a href="https://www.cms.caltech.edu/news-events/meeting-of-the-minds">CMS + IST Meeting of the Minds (MotM)</a> at <a href="https://www.caltech.edu">Caltech</a> (May 2023)</li>
     <li>I was selected to participate in the 10th <a href="https://www.heidelberg-laureate-forum.org">Heidelberg Laureate Forum</a> (October 2023)</li>
