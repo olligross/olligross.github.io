@@ -43,5 +43,15 @@ var addressPoints = [
     "CSE Pixel Cafe, UC San Diego - April 2023 - San Diego, CA",
     32.88198978329932, 
     -117.23338402746064
+  ],
+  [
+    "ACM SIGGRAPH 2023 - Aug. 2023 - Los Angeles, CA",
+    34.043121603253944, 
+  -118.26872488716546
+  ],
+  [
+    "Geometry Workshop Obergurgl - Aug 2023 - Innsbruck, Austria",
+    47.26409081193419, 
+    11.343958518701138
   ]
 ];
