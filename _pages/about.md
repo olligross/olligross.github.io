@@ -17,6 +17,9 @@ Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I cr
 <div style="height: 300px; overflow-y: scroll;">
 
 <ul>
+    <li>I presented our paper <strong>Motion from Shape Change</strong> at the <a href="http://www.geometrie.tugraz.at/events/og2023.html">Geometry Workshop Obergurgl 2023</a> (Aug 2023)</li>
+    <li>I presented our paper <strong>Motion from Shape Change</strong> at <a href="https://s2023.siggraph.org">ACM SIGGRAPH 2023</a> (Aug 2023)</li>
+    <li>Our paper <strong>Motion from Shape Change</strong> was featured by <a href="https://www.caltech.edu/about/news/what-do-a-jellyfish-a-cat-a-snake-and-an-astronaut-have-in-common-math">Caltech News</a> (Aug 2023)</li>
     <li>I presented a poster about our paper <strong>Motion from Shape Change</strong> as part of <a href="https://www.admissions.caltech.edu/visit/visit-campus/summer-preview-women-stem">Caltech's Women in STEM program</a> (Aug 2023)</li>
     <li>Our paper <strong>Plasma Knots</strong> was accepted for publication in <a href="https://www.sciencedirect.com/journal/physics-letters-a">Physics Letters A</a>(June 2023)</li>
     <li>I present a poster about our paper <strong>Motion from Shape Change</strong> at the <a href="https://www.cms.caltech.edu/news-events/meeting-of-the-minds">CMS + IST Meeting of the Minds (MotM)</a> at <a href="https://www.caltech.edu">Caltech</a> (May 2023)</li>
