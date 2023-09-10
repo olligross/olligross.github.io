@@ -17,6 +17,7 @@ Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I cr
 <div style="height: 300px; overflow-y: scroll;">
 
 <ul>
+    <li>I was interviewed by <a href="https://spectrum.ieee.org/u/rahul-rao#">Rahul Rao</a> who wrote an article about our paper <strong>Motion from Shape Change</strong> for <a href="https://spectrum.ieee.org/serpentine-motion">IEEE Spectrum</a> (Sep 2023)</li>
     <li>I presented our paper <strong>Motion from Shape Change</strong> at the <a href="http://www.geometrie.tugraz.at/events/og2023.html">Geometry Workshop Obergurgl 2023</a> (Aug 2023)</li>
     <li>I presented our paper <strong>Motion from Shape Change</strong> at <a href="https://s2023.siggraph.org">ACM SIGGRAPH 2023</a> (Aug 2023)</li>
     <li>Our paper <strong>Motion from Shape Change</strong> was featured by <a href="https://www.caltech.edu/about/news/what-do-a-jellyfish-a-cat-a-snake-and-an-astronaut-have-in-common-math">Caltech News</a> (Aug 2023)</li>
