@@ -17,6 +17,7 @@ Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I cr
 <div style="height: 300px; overflow-y: scroll;">
 
 <ul>
+    <li><a href="https://scilogs.spektrum.de/hlf/author/mihai/">Andrei Mihai</a> wrote an article for <a href="https://scilogs.spektrum.de/hlf/posters-of-progress-all-eyes-on-the-young-researchers-taking-the-stage/?fbclid=PAAabvdk33KerqFmQLypzV3Inq_bF5reokkf3wlo2nlqzpHiO5CCNugnEukkQ_aem_AUq-K1CeZvpJP_IuzHYDjCmUh2AOclJ72KAJP9ji-nJizV7dJ8m7y6ZTlOJvnplhr00">Spectrum.de SciLogs</a> featuring my work on <strong>Motion from Shape Change</strong> (Oct 2023)</li>
     <li>I was interviewed by <a href="https://spectrum.ieee.org/u/rahul-rao#">Rahul Rao</a> who wrote an article about our paper <strong>Motion from Shape Change</strong> for <a href="https://spectrum.ieee.org/serpentine-motion">IEEE Spectrum</a> (Sep 2023)</li>
     <li>I presented our paper <strong>Motion from Shape Change</strong> at the <a href="http://www.geometrie.tugraz.at/events/og2023.html">Geometry Workshop Obergurgl 2023</a> (Aug 2023)</li>
     <li>I presented our paper <strong>Motion from Shape Change</strong> at <a href="https://s2023.siggraph.org">ACM SIGGRAPH 2023</a> (Aug 2023)</li>
