@@ -53,5 +53,20 @@ var addressPoints = [
     "Geometry Workshop Obergurgl - Aug 2023 - Innsbruck, Austria",
     47.26409081193419, 
     11.343958518701138
+  ],
+  [
+    "10th Heidelberg Laureate Forum 2023 - Poster Flash Presentation - Sept. 2023 - Heidelberg, Germany",
+    49.410497, 
+    8.706554
+  ],
+  [
+    "MiNiRoLab - University of Notre Dame (Online) - Oct. 2023 - Notre Dame, IN, USA",
+    41.699520815993885, 
+    -86.23718878813924
+  ],
+  [
+    "Geometric Computing Laboratory at EPFL - Nov. 2023 - Lausanne, Switzerland ",
+    46.51834075906208, 
+    6.561884567831028
   ]
 ];
