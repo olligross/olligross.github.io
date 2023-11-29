@@ -68,5 +68,10 @@ var addressPoints = [
     "Geometric Computing Laboratory at EPFL - Nov. 2023 - Lausanne, Switzerland ",
     46.51834075906208, 
     6.561884567831028
+  ],
+  [
+    "Colloquium of the SFB 1060 at the University of Bonn - Nov. 2023 - Bonn, Germany ",
+    50.72844601928132, 
+    7.083935220326149
   ]
 ];
