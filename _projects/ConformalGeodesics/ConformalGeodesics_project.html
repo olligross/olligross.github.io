@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">google.load("jquery", "1.3.2");</script>
+
+<style type="text/css">
+    body {
+        font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+        font-weight: 300;
+        font-size: 18px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+
+    h1 {
+        font-weight: 300;
+    }
+
+    .disclaimerbox {
+        background-color: #eee;
+        border: 1px solid #eeeeee;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        padding: 20px;
+    }
+
+    video.header-vid {
+        height: 140px;
+        border: 1px solid black;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+    }
+
+    img.header-img {
+        height: 140px;
+        border: 1px solid black;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+    }
+
+    img.rounded {
+        border: 1px solid #eeeeee;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+    }
+
+    a:link,
+    a:visited {
+        color: #1367a7;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: #208799;
+    }
+
+    td.dl-link {
+        height: 160px;
+        text-align: center;
+        font-size: 22px;
+    }
+
+    .layered-paper-big {
+        /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+        box-shadow:
+            0px 0px 1px 1px rgba(0, 0, 0, 0.35),
+            /* The top layer shadow */
+            5px 5px 0 0px #fff,
+            /* The second layer */
+            5px 5px 1px 1px rgba(0, 0, 0, 0.35),
+            /* The second layer shadow */
+            10px 10px 0 0px #fff,
+            /* The third layer */
+            10px 10px 1px 1px rgba(0, 0, 0, 0.35),
+            /* The third layer shadow */
+            15px 15px 0 0px #fff,
+            /* The fourth layer */
+            15px 15px 1px 1px rgba(0, 0, 0, 0.35),
+            /* The fourth layer shadow */
+            20px 20px 0 0px #fff,
+            /* The fifth layer */
+            20px 20px 1px 1px rgba(0, 0, 0, 0.35),
+            /* The fifth layer shadow */
+            25px 25px 0 0px #fff,
+            /* The fifth layer */
+            25px 25px 1px 1px rgba(0, 0, 0, 0.35);
+        /* The fifth layer shadow */
+        margin-left: 10px;
+        margin-right: 45px;
+    }
+
+    .layered-paper {
+        /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+        box-shadow:
+            0px 0px 1px 1px rgba(0, 0, 0, 0.35),
+            /* The top layer shadow */
+            5px 5px 0 0px #fff,
+            /* The second layer */
+            5px 5px 1px 1px rgba(0, 0, 0, 0.35),
+            /* The second layer shadow */
+            10px 10px 0 0px #fff,
+            /* The third layer */
+            10px 10px 1px 1px rgba(0, 0, 0, 0.35);
+        /* The third layer shadow */
+        margin-top: 5px;
+        margin-left: 10px;
+        margin-right: 30px;
+        margin-bottom: 5px;
+    }
+
+    .vert-cent {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    hr {
+        border: 0;
+        height: 1.5px;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    }
+</style>
+
+<html>
+
+<head>
+    <title>Force-Free Fields are Conformally Geodesic</title>
+</head>
+
+<body>
+    <br>
+    <center>
+        <span style="font-size:30px">Force-Free Fields are Conformally Geodesic</span>
+    </center>
+
+    <br>
+
+
+    <table align=center width=900px>
+        <tr>
+        
+            <td align=center width=80px>
+                <center>
+                    <span style="font-size:18px"><a href="https://cseweb.ucsd.edu/~alchern/">Albert Chern<sup>1</sup></a></span>
+                </center>
+            </td>
+            
+            <td align=center width=80px>
+                <center>
+                    <span style="font-size:18px"><a href="https://olligross.github.io">Oliver Gross<sup>2</sup></a></span>
+                </center>
+            </td>
+
+        </tr>
+    </table>
+
+    <br>
+
+    <table align=center width=30%>
+        <tr>
+            <td align=center width=80px>
+                <center>
+                    <span style="font-size:20px"><sup>1</sup>UC San Diego</span>
+                </center>
+            </td>
+            <td align=center width=80px>
+                <center>
+                    <span style="font-size:20px"><sup>2</sup>TU Berlin</span>
+                </center>
+            </td>
+
+        </tr>
+    </table>
+
+    <br>
+
+    <!-- <table align=center width=900px>
+        <tr>
+            <td align=center width=80px>
+                <center>
+                    <span>In ICCV 2021</span>
+                </center>
+            </td>
+
+        </tr>
+    </table> -->
+
+   <!--  <br><br>-->
+    <table align=center width=100%>
+        <tr>
+            <td width=100%>
+                <center>
+                    <a href="./figs/HopfFibration3.jpg"><img src="./figs/HopfFibration3.jpg" width="60%"></img>
+                    </href></a><br>
+                </center>
+            </td>
+        </tr>
+    </table>
+    
+     <br>
+     <table align=center width=60%>
+        <hr align=center width=60%>
+        <tr>
+            <td>
+            <div style="float:left;width:50%;"><h2>Abstract</h2></div>
+            </td>
+        </tr>
+        
+    </table>
+
+    <table align=center width=60%>
+        <tr>
+            <td><span style="font-size:14pt">In this paper, we establish an equivalence between force-free fields and conformally geodesic fields, and between harmonic fields and conformally eikonal fields in the context of conformal geometry. In contrast to previous work, our approach and equivalence results generalize to arbitrary dimensions. In accordance with three-dimensional theory, our defining equations emerge as the Euler-Lagrange equations of hierarchies of variational principles&mdash;distinguished by the topological constraints they impose&mdash;and retain the known inclusions of the special cases from each other. Specifically, we relate stationary points of hierarchies of L2 resp. L1-optimization problems by a conformal change of metric, provide an explicit construction of the conformal factors relating the relevant metrics and identify the field lines of physical vector fields fields as conformal geodesics. Despite the allowed topological complexity of the fields under consideration, these observations reveal geometric order which is obtained by merely pointwise rescaling of the metric.<br><br>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <table align=center width=60%>
+        <hr align=center width=60%>
+        <tr>
+            <td>
+            <div style="float:left;width:50%;"><h2>Resources</h2></div>
+            </td>
+        </tr>
+         <tr>
+            <!--<td width=300px align=left>-->
+            <!-- <a href="http://arxiv.org/pdf/1603.08511.pdf"> -->
+            <!-- <td><a href="#"><img class="layered-paper-big" style="height:175px" src="./resources/images/paper.png"/></a></td> -->
+            <td><a href="./figs/ConformalGeodesics.pdf"><img style="height:130px" align="center" src="./figs/L1vsL2_teaser.jpg" /></a></td>
+            <!--<td><a href="https://arxiv.org/pdf/1904.09571.pdf"><img style="height:180px" src="./support/paper_3d.png"/></a></td>-->
+            <td><span style="font-size:14pt">Force-Free Fields are Conformally Geodesic<br>
+                    <i>Albert Chern and Oliver Gross</i><br>
+                    TBA <br><br>
+                    <a href="./figs/ConformalGeodesics.pdf">[Preprint]</a> 
+            </td>
+        </tr>
+    </table>
+
+<!--    <br>. -->
+
+ <!--<br> <br> -->       
+   <!-- <table align=center width=60%>-->
+    <!--    <hr align=center width=60%>-->
+       <!-- <tr>-->
+          <!--  <td>-->
+          <!--  <div style="float:left;width:50%;"><h2>Results</h2></div>
+         <!--   </td>
+     <!--   </tr>-->
+        
+  <!--  </table>
+
+<!--<table align=center width=100%>
+  <!--      <tr>
+    <!--        <td width=100%>
+      <!--          <center>
+        <!--            <a href="./figs/Collage.jpg"><img src="./figs/CollageVert.jpg" width="55%"></img>
+    <!--                </href></a><br>
+    <!--            </center>
+<!--            </td>
+  <!--      </tr>-->
+        
+        
+    <br><br>
+        
+
+    <table align=center width=60%>
+        <hr align=center width=60%>
+        <tr>
+            <td>
+            <div style="float:left;width:50%;"><h2>Acknowledgement</h2></div>
+            </td>
+        </tr>
+        
+    </table>
+
+<table align=center width=60%>
+        <tr>
+            <td><span style="font-size:14pt">This work was funded by the Deutsche Forschungsgemeinschaft (DFG - German Research Foundation) - Project-ID 195170736 - TRR109  "Discretization in Geometry and Dynamics," and the National Science Foundation - CAREER Award 223906. Ad- ditional support was provided by SideFX software. The research was conducted during a visiting stay of the second author at California Institute of Technology hosted by Prof. Peter Schr&ouml;der. The authors would also like to thank Prof. Ulrich Pinkall, Dr. Felix Kn&ouml;ppel, Mark Gillespie and Sadashige Ishida for initial discussions. <br><br>
+            </td>
+        </tr>
+        
+    </table>
+
+
