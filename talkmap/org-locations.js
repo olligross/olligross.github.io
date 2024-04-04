@@ -73,5 +73,10 @@ var addressPoints = [
     "Colloquium of the SFB 1060 at the University of Bonn - Nov. 2023 - Bonn, Germany ",
     50.72844601928132, 
     7.083935220326149
+  ],
+  [
+    "ODEN Institute Seminar - Feb. 2024 - Austin, TX, USA ",
+    30.28687875253618, 
+    -97.73656545794398
   ]
 ];
