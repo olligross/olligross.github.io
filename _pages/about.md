@@ -7,12 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-  body {
-    font-family: 'Linux Libertine', serif;
-  }
-</style>
-
 I am a doctoral student in mathematics at [Technische Universität Berlin](https://www.math.tu-berlin.de/menue/home/parameter/en/) as part of the [C07](https://www.discretization.de/projects/C07/) project of collaborative research center SFB/TRR 109 [Discretization in Geometry and Dynamics](https://www.discretization.de) under the supervision of [Prof. Ulrich Pinkall](https://page.math.tu-berlin.de/~pinkall/) (TU Berlin) and [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/) (Caltech). Moreover, I am a Phase-II student of the [Berlin Mathematical school](https://www.math-berlin.de/index.php).
 I also work closely with [Prof. Albert Chern](https://cseweb.ucsd.edu/~alchern/) (UC San Diego) and [Prof. Olga Diamanti](https://olga-diamanti.net) (TU Graz).
 
