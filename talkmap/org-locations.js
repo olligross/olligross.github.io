@@ -78,5 +78,10 @@ var addressPoints = [
     "ODEN Institute Seminar - Feb. 2024 - Austin, TX, USA ",
     30.28687875253618, 
     -97.73656545794398
+  ],
+  [
+    "EQUADIFF 2024 - June 2024 - Karlstad, Sweden",
+    59.40680156116052, 
+    13.582492994620125
   ]
 ];
