@@ -7,9 +7,9 @@
 
 # Site Settings
 locale: "en-US"
-title: "Oliver Gross"
+title: "Dr. Oliver Gross"
 title_separator: "-"
-name: &name "Oliver Gross"
+name: &name "Dr. Oliver Gross"
 description: &description "Doctoral student at Technische Universität Berlin"
 url: https://olligross.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -76,7 +76,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Oliver Gross"
+  name: "Dr. Oliver Gross"
   avatar: "profile-mine.jpg"
   bio: "Doctoral student at Technische Universität Berlin"
   location: "Berlin, Germany"
