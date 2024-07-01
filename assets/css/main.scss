@@ -10,6 +10,14 @@
  *
 */
 
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Libre+Libre:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// Body styles
+body {
+    font-family: 'Libre Libre', 'Linux Libertine', serif; /* Specify font family */
+}
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
