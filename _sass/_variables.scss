@@ -6,6 +6,9 @@
    Typography
    ========================================================================== */
 
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Libre+Libre:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 $doc-font-size              : 16;
 
 /* paragraph indention */
@@ -28,7 +31,7 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
+$global-font-family         : 'Libre Libre', 'Linux Libertine', serif; // Updated to use Libre Libre
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
