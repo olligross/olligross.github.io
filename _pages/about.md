@@ -11,7 +11,7 @@ I am an (incoming) postdoctoral researcher at [École Polytechnique Fédérale d
 
 Prior to my current position, I was an investigator in the [C07](https://www.discretization.de/projects/C07/) project in the collaborative research center SFB/TRR 109 [Discretization in Geometry and Dynamics](https://www.discretization.de) at [Technische Universität Berlin](https://www.math.tu-berlin.de/menue/home/parameter/en/). In 2023 I was a visiting researcher at [Caltech](https://www.caltech.edu) supervised by [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/).
 
-I received my PhD (2024) in mathematics at [Technische Universität Berlin](https://www.math.tu-berlin.de/menue/home/parameter/en/) under the supervision of [Prof. Ulrich Pinkall](https://page.math.tu-berlin.de/~pinkall/) (TU Berlin) and [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/) (Caltech) as part of the [Berlin Mathematical school](https://www.math-berlin.de/index.php). 
+I received my PhD (2024) at the [institute of mathematics](https://www.tu.berlin/math) of the [Technische Universität Berlin](https://www.math.tu-berlin.de/menue/home/parameter/en/) under the supervision of [Prof. Ulrich Pinkall](https://page.math.tu-berlin.de/~pinkall/) (TU Berlin) and [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/) (Caltech) as part of the [Berlin Mathematical school](https://www.math-berlin.de/index.php). 
 
 Moreover, I actively collaborate with the groups of [Prof. Albert Chern](https://cseweb.ucsd.edu/~alchern/) (UC San Diego), [Prof. Martin Rumpf](https://ins.uni-bonn.de/staff/rumpf) (University of Bonn) and [Prof. Yasemin Özkan-Aydin](https://minirolab.nd.edu/team/principal-investigator/yasemin-ozkan-aydin-phd/) (University of Notre Dame).
 
