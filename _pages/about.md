@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an (incoming) postdoctoral researcher in applied and computational mathematics at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/de/) as part of the [Geometric Computing Laboratory](https://www.epfl.ch/labs/gcm/) under supervison of [Prof. Mark Pauly](https://people.epfl.ch/mark.pauly).
+I am a postdoctoral researcher in applied and computational mathematics at [EPFL (Swiss Federal Institute of Technology, Lausanne)](https://www.epfl.ch/de/) as part of the [Geometric Computing Laboratory](https://www.epfl.ch/labs/gcm/) under supervison of [Prof. Mark Pauly](https://people.epfl.ch/mark.pauly).
 
 In 2024, I completed my PhD at the [institute of mathematics](https://www.tu.berlin/math) of the [Technische Universität Berlin](https://www.math.tu-berlin.de/menue/home/parameter/en/) under the supervision of [Prof. Ulrich Pinkall](https://page.math.tu-berlin.de/~pinkall/) (TU Berlin) and [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/) (Caltech) as a member of the Berlin Mathematical School. Prior to my current position, I was an investigator for the collaborative research center SFB/TRR 109 [“Discretization in Geometry and Dynamics“](https://www.discretization.de), funded by the [German Research Foundation](https://www.dfg.de/de). In 2023 I was a visiting researcher at [Caltech](https://www.caltech.edu) supervised by [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/).
 
