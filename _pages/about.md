@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in applied and computational mathematics at [EPFL (Swiss Federal Institute of Technology, Lausanne)](https://www.epfl.ch/de/) as part of the [Geometric Computing Laboratory](https://www.epfl.ch/labs/gcm/) under supervison of [Prof. Mark Pauly](https://people.epfl.ch/mark.pauly).
+I am a postdoctoral researcher in applied and computational mathematics at [EPFL (Swiss Federal Institute of Technology, Lausanne)](https://www.epfl.ch/de/) as part of the [Geometric Computing Laboratory](https://www.epfl.ch/labs/gcm/) lead by [Prof. Mark Pauly](https://people.epfl.ch/mark.pauly).
 
 My research focuses on the geometric structures inherent in a number of physical or biological systems. I seek to leverage these for the development of efficient and reliable algorithms for problems in areas such as computer graphics, physics simulation, manufacturing or robotics.
 
