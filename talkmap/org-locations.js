@@ -85,7 +85,7 @@ var addressPoints = [
     13.582492994620125
   ],
   [
-    "Wojtan group seminar @ ISTA - November 2024 - Klosterneuburg, Austria",
+    "Wojtan group seminar, IST Austria - November 2024 - Klosterneuburg, Austria",
     48.31197173680728, 
     16.259800100859735
   ]
