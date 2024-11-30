@@ -23,6 +23,7 @@ I am currently collaborating with the groups of [Prof. Albert Chern](https://cse
 <div style="height: 300px; overflow-y: scroll; font-size: 75%;">
 
 <ul>
+    <li><a href="https://pub.ista.ac.at/~wojtan/">Prof. Christopher Wojtan</a> invited me to talk about <strong>Conformal Geodesibility and Ideal MHD</strong> in the <a href="https://ist.ac.at/en/research/wojtan-group/">Wojtan group seminar</a> at the <a href="https://ist.ac.at/home">Institute of Science and Technology, Austria</a> (November 2024)</li>
     <li><a href="https://www.renzoricca.com">Prof. Renzo Ricca</a> invited me to give a talk about <strong>Geometry of Plasma Knots</strong> in the Minisymposium on Topological Fluid Dynamics as part of the <a href="https://www.kau.se/en/equadiff">EQUADIFF 2024</a> conference at <a href="https://www.kau.se/en">Karlstad University, Sweden</a> (June 2024)</li>
     <li>I've successfully defended my thesis titled <a href="https://doi.org/10.14279/depositonce-20666">Conformal geometry in ideal magnetohydrodynamics</a> and obtained my PhD with distinction (summa cum laude) (May 2024)</li>
     <li><a href="https://minirolab.nd.edu/team/phd-graduate-students/sean-even/">Sean Even</a> presented a poster on our joint research on <strong>Optimizing Robotic Snake Gait with Machine Learning and Shape Change Algorithms</strong> at the <a href="https://www.ttic.edu/mwrw/#call">2024 Midwest Robotics Workshop (MWRW)</a> (Apr 2024)</li>  
