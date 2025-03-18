@@ -19,6 +19,7 @@ I am currently collaborating with the groups of [Prof. Mark Pauly](https://peopl
 <div style="height: 300px; overflow-y: scroll; font-size: 75%;">
 
 <ul>
+    <li>I was invited to give an online talk titled <strong>Conformal Geometry in ideal MHD</strong> in the Applied Mathematics Seminar at <a href="https://www.durham.ac.uk">Durham University, UK</a> (March 2025)</li>  
     <li><a href="https://people.epfl.ch/christopher.smiet">Christopher Berg Smiet</a> invited me to give an online talk titled <strong>Force-Free Fields are Conformally Geodesic</strong> in the SPECtaculars' meeting (December 2024)</li>
     <li><a href="https://pub.ista.ac.at/~wojtan/">Prof. Christopher Wojtan</a> invited me to talk about <strong>Conformal Geodesibility and Ideal MHD</strong> in the <a href="https://ist.ac.at/en/research/wojtan-group/">Wojtan group seminar</a> at the <a href="https://ist.ac.at/home">Institute of Science and Technology, Austria</a> (November 2024)</li>
     <li><a href="https://www.renzoricca.com">Prof. Renzo Ricca</a> invited me to give a talk about <strong>Geometry of Plasma Knots</strong> in the Minisymposium on Topological Fluid Dynamics as part of the <a href="https://www.kau.se/en/equadiff">EQUADIFF 2024</a> conference at <a href="https://www.kau.se/en">Karlstad University, Sweden</a> (June 2024)</li>
