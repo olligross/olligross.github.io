@@ -98,5 +98,10 @@ var addressPoints = [
     "Applied Mathematics Seminar at Durham University - March 2025 - (Online)",
       54.763750862803235, 
       -1.5721727742083693
+  ],
+  [
+    "Geotop-A web-seminar series - March 2025 - (Online)",
+      45.512415611916516, 
+      9.212536708797153
   ]
 ];
