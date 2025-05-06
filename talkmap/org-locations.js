@@ -83,5 +83,25 @@ var addressPoints = [
     "EQUADIFF 2024 - June 2024 - Karlstad, Sweden",
     59.40680156116052, 
     13.582492994620125
+  ],
+  [
+    "Wojtan group seminar, IST Austria - November 2024 - Klosterneuburg, Austria",
+    48.31197173680728, 
+    16.259800100859735
+  ],
+    [
+    "SPECtaculars' meeting - December 2024 - (Online)",
+      46.51717314974145, 
+      6.5647044533758345
+  ],
+  [
+    "Applied Mathematics Seminar at Durham University - March 2025 - (Online)",
+      54.763750862803235, 
+      -1.5721727742083693
+  ],
+  [
+    "Geotop-A web-seminar series - March 2025 - (Online)",
+      45.512415611916516, 
+      9.212536708797153
   ]
 ];
