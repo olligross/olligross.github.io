@@ -19,6 +19,7 @@ I am currently collaborating with the groups of [Prof. Mark Pauly](https://peopl
 <div style="height: 300px; overflow-y: scroll; font-size: 75%;">
 
 <ul>
+    <li>Our paper <a href="https://olligross.github.io/projects/InverseGeometricLocomotion/InverseGeometricLocomotion_project.html">Inverse Geometric Locomotion</a> was accepted to <a href="https://dl.acm.org/journal/tog">ACM Transactions on Graphics</a> and will be presented at <a href="https://s2025.siggraph.org">SIGGRAPH 2025</a>, Vancouver (May 2025)</li>
     <li><a href="https://www.renzoricca.com">Prof. Renzo Ricca</a> invited me to talk about <strong>Conformal Geometry in Magnetic Relaxation</strong> in the <a href="https://seminargeotop-a.com">Geotop-A</a> web-seminar series (March 2025)</li>
     <li>I gave an online talk about <strong>Conformal Geometry in ideal MHD</strong> in the Applied Mathematics Seminar at <a href="https://www.durham.ac.uk">Durham University, UK</a> (March 2025)</li>  
     <li><a href="https://people.epfl.ch/christopher.smiet">Christopher Berg Smiet</a> invited me to give an online talk titled <strong>Force-Free Fields are Conformally Geodesic</strong> in the SPECtaculars' meeting (December 2024)</li>
