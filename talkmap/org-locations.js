@@ -103,5 +103,10 @@ var addressPoints = [
     "Geotop-A web-seminar series - March 2025 - (Online)",
       45.512415611916516, 
       9.212536708797153
+  ],
+    [
+    "Graphics reading group at University College London - June 2025 - (Online)",
+      51.52683939510145, 
+      -0.13164175809963635
   ]
 ];

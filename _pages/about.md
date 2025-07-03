@@ -19,6 +19,7 @@ I am currently collaborating with the groups of [Prof. Mark Pauly](https://peopl
 <div style="height: 300px; overflow-y: scroll; font-size: 75%;">
 
 <ul>
+    <li><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Prof. Niloy Mitra</a> invited me to give an online talk about <strong>Inverse Problems in Geometric Locomotion</strong> in his reading group at <a href="https://www.ucl.ac.uk">University College London, UK</a> (June 2025)</li>
     <li>Our paper <a href="https://olligross.github.io/projects/InverseGeometricLocomotion/InverseGeometricLocomotion_project.html">Inverse Geometric Locomotion</a> was accepted to <a href="https://dl.acm.org/journal/tog">ACM Transactions on Graphics</a> and will be presented at <a href="https://s2025.siggraph.org">SIGGRAPH 2025</a>, Vancouver (May 2025)</li>
     <li><a href="https://www.renzoricca.com">Prof. Renzo Ricca</a> invited me to talk about <strong>Conformal Geometry in Magnetic Relaxation</strong> in the <a href="https://seminargeotop-a.com">Geotop-A</a> web-seminar series (March 2025)</li>
     <li>I gave an online talk about <strong>Conformal Geometry in ideal MHD</strong> in the Applied Mathematics Seminar at <a href="https://www.durham.ac.uk">Durham University, UK</a> (March 2025)</li>  
