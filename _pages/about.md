@@ -16,7 +16,8 @@ I am currently collaborating with the groups of [Prof. Mark Pauly](https://peopl
 <!---Together with [Carl Lutz](https://page.math.tu-berlin.de/~clutz/#outreach), I create the [DGD-Calendar](https://olligross.github.io/projects/DGDCalendar/DGDCalendar_project.html). Our goal is to present the current research of the SFB/TRR 109 in a visually appealing way. In doing so, we hope to promote further interdisciplinary collaborations. Above all, we want to give experts and interested non-professionals the opportunity to enjoy the beauty of geometry with us. -->
 
 ## News
-<div style="height: 300px; overflow-y: scroll; font-size: 75%;">
+<!--- <div style="height: 120px; overflow-y: scroll; font-size: 75%;"> -->
+<div style="height: 120px; overflow-y: scroll; font-size: 75%; line-height: 1.2em;">
 
 <ul>
     <li> Jointly with  with <a href="https://qbecky.github.io">Quentin Becker</a> I lead a project on <strong>How to fix a broken snake robot?</strong> for the <a href="https://sgi.mit.edu">Summer Geometry Initiative 2025</a> at <a href="https://www.mit.edu">MIT</a>, Cambridge, MA, USA (July 2025)</li>
