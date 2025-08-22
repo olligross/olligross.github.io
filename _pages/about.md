@@ -7,6 +7,57 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+/* Paste this into the top of your Markdown page (after the YAML front matter) */
+.news-outer {
+  position: relative;
+  height: 120px;
+  box-sizing: border-box;
+  font-size: 75%;
+  line-height: 1.2em;
+  margin: 0;
+  padding-left: 40px;
+  overflow: visible;
+}
+
+.news-scroll {
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  margin: 0;
+  padding-right: 8px;
+}
+
+.news-scroll ul { margin: 0; padding: 0; list-style-position: inside; }
+.news-scroll li { margin: 0 0 0.25em 0; padding: 0; }
+
+.news-fade {
+  pointer-events: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 22px;
+  background: linear-gradient(
+    to bottom,
+    rgba(255,255,255,0) 0%,
+    rgba(255,255,255,0.9) 60%,
+    rgba(255,255,255,1) 100%
+  );
+}
+
+.news-arrow {
+  position: absolute;
+  right: 8px;
+  bottom: 4px;
+  font-size: 0.9em;
+  color: #666;
+  pointer-events: none;
+}
+</style>
+
+
 I am a postdoctoral researcher at the [University of California, San Diego](https://ucsd.edu), in the [Center for Visual Computing, Computer Science and Engineering](https://visualcomputing.ucsd.edu), working with [Prof. Albert Chern](https://cseweb.ucsd.edu/~alchern/). I work in applied and computational mathematics, studying geometric structures that arise in physical and biological systems to develop efficient and reliable algorithms for applications in computer graphics, physics simulation, manufacturing, or robotics.
 
 Previously, I was a postdoctoral researcher at [EPFL (Swiss Federal Institute of Technology, Lausanne)](https://www.epfl.ch/de/) as part of the [Geometric Computing Laboratory](https://www.epfl.ch/labs/gcm/) led by [Prof. Mark Pauly](https://people.epfl.ch/mark.pauly) and an investigator for the collaborative research center SFB/TRR 109 [“Discretization in Geometry and Dynamics“](https://www.discretization.de), funded by the [German Research Foundation](https://www.dfg.de/de). In 2023, I was a visiting researcher at [Caltech](https://www.caltech.edu). I completed my PhD in 2024 at the [Institute of Mathematics](https://www.tu.berlin/math) at the [Technische Universität Berlin](https://www.math.tu-berlin.de/menue/home/parameter/en/) under the supervision of [Prof. Ulrich Pinkall](https://page.math.tu-berlin.de/~pinkall/) (TU Berlin) and [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/) (Caltech) as a member of the Berlin Mathematical School.
@@ -17,8 +68,9 @@ I am currently collaborating with the groups of [Prof. Mark Pauly](https://peopl
 
 ## News
 <!--- <div style="height: 120px; overflow-y: scroll; font-size: 75%;"> -->
-<div style="height: 120px; overflow-y: scroll; font-size: 75%; line-height: 1.2em; position: relative;">
-  <ul style="margin: 0; padding-left: 40px; padding-right: 0; list-style-position: inside;">
+<div class="news-outer" aria-label="News">
+  <div class="news-scroll" role="region" aria-live="polite">
+    <ul>
 
     <li> Jointly with  with <a href="https://qbecky.github.io">Quentin Becker</a> I lead a project on <strong>How to fix a broken snake robot?</strong> for the <a href="https://sgi.mit.edu">Summer Geometry Initiative 2025</a> at <a href="https://www.mit.edu">MIT</a>, Cambridge, MA, USA (July 2025)</li>
     <li><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Prof. Niloy Mitra</a> invited me to give an online talk about <strong>Inverse Problems in Geometric Locomotion</strong> in his reading group at <a href="https://www.ucl.ac.uk">University College London, UK</a> (June 2025)</li>
@@ -56,16 +108,11 @@ I am currently collaborating with the groups of [Prof. Mark Pauly](https://peopl
     <li>I was invited by <a href="https://cseweb.ucsd.edu/~alchern/">Prof. Albert Chern</a> to give a talk on the <strong>Lagrangian Modeling and Geometric Optimization in Plasma Physics</strong> at UC San Diego</li>
     <li>I was invited by <a href="https://olga-diamanti.net">Prof. Olga Diamanti</a> to give a talk on the <strong>Riemannian Geometry in Plasma Physics</strong> in the geometry seminar at TU Graz</li>
     <li>Our paper <strong>Filament Based Plasma</strong> was accepted by ACM Transactions on Graphics and will be presented at SIGGRAPH 2022, Vancouver</li>
-</ul>
-  <div style="
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 20px;
-    background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1));
-    pointer-events: none;">
+    </ul>
   </div>
+
+  <div class="news-fade" aria-hidden="true"></div>
+  <div class="news-arrow" aria-hidden="true">▼</div>
 </div>
 
 <!---
