@@ -17,7 +17,7 @@ I am currently collaborating with the groups of [Prof. Mark Pauly](https://peopl
 
 ## News
 <!--- <div style="height: 120px; overflow-y: scroll; font-size: 75%;"> -->
-<div style="height: 120px; overflow-y: scroll; font-size: 75%; line-height: 1.2em;">
+<div style="height: 120px; overflow-y: scroll; font-size: 75%; line-height: 1.2em; position: relative; margin-bottom: 0;">
 
 <ul style="margin: 0; padding-left: 40px;">
     <li> Jointly with  with <a href="https://qbecky.github.io">Quentin Becker</a> I lead a project on <strong>How to fix a broken snake robot?</strong> for the <a href="https://sgi.mit.edu">Summer Geometry Initiative 2025</a> at <a href="https://www.mit.edu">MIT</a>, Cambridge, MA, USA (July 2025)</li>
