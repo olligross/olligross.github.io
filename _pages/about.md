@@ -55,6 +55,20 @@ redirect_from:
   color: #666;
   pointer-events: none;
 }
+
+.news-outer {
+  /* create a new block formatting context so margins don't collapse */
+  display: flow-root;
+  /* ensure no bottom margin from the container itself */
+  margin-bottom: 0;
+  /* small transparent border also prevents margin collapse on some old browsers */
+  border-bottom: 1px solid transparent;
+}
+
+/* guard: remove top margin from the element immediately after the news box */
+.news-outer + * {
+  margin-top: 0 !important;
+}
 </style>
 
 
@@ -112,7 +126,7 @@ I am currently collaborating with the groups of [Prof. Mark Pauly](https://peopl
   </div>
 
   <div class="news-fade" aria-hidden="true"></div>
-  <div class="news-arrow" aria-hidden="true">▼</div>
+  <div class="news-arrow" aria-hidden="true"></div>
 </div>
 
 <!---
