@@ -11,7 +11,7 @@ redirect_from:
 /* Paste this into the top of your Markdown page (after the YAML front matter) */
 .news-outer {
   position: relative;
-  height: 120px;
+  height: 60px;
   box-sizing: border-box;
   font-size: 75%;
   line-height: 1.2em;
