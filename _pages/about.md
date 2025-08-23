@@ -39,7 +39,7 @@ redirect_from:
   left: 0;
   right: 0;
   bottom: 0;
-  height: 11px;
+  height: 22px;
   background: linear-gradient(
     to bottom,
     rgba(255,255,255,0) 0%,
@@ -48,18 +48,10 @@ redirect_from:
   );
 }
 
-.news-arrow {
-  position: absolute;
-  right: 8px;
-  bottom: 4px;
-  font-size: 0.9em;
-  color: #666;
-  pointer-events: none;
-}
-
 /* Ensure no extra spacing after the news section */
 .news-outer + * {
   margin-top: 0 !important;
+  margin-bottom: 0 !important;
 }
 </style>
 
@@ -117,5 +109,4 @@ I am currently collaborating with the groups of [Prof. Mark Pauly](https://peopl
   </div>
 
   <div class="news-fade" aria-hidden="true"></div>
-  <div class="news-arrow" aria-hidden="true"></div>
 </div>
