@@ -10,64 +10,34 @@ redirect_from:
 <style>
 /* Paste this into the top of your Markdown page (after the YAML front matter) */
 .news-outer {
-  position: relative;
-  height: 120px;
-  box-sizing: border-box;
-  font-size: 75%;
-  line-height: 1.2em;
-  margin: 0;
-  padding-left: 40px;
-  overflow: visible;
+  display: flow-root !important;     /* new block formatting context */
+  margin: 0 !important;              /* no external margins from the container */
+  margin-bottom: 0 !important;       /* make absolutely sure there's no bottom margin */
+  padding-bottom: 0 !important;
+  border-bottom: 1px solid transparent !important; /* fallback for old engines */
+  box-sizing: border-box !important;
 }
 
-.news-scroll {
-  height: 100%;
-  overflow-y: scroll;
-  overflow-x: hidden;
-  box-sizing: border-box;
-  margin: 0;
-  padding-right: 8px;
-}
-
-.news-scroll ul { margin: 0; padding: 0; list-style-position: inside; }
-.news-scroll li { margin: 0 0 0.25em 0; padding: 0; }
-
-.news-fade {
-  pointer-events: none;
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 22px;
-  background: linear-gradient(
-    to bottom,
-    rgba(255,255,255,0) 0%,
-    rgba(255,255,255,0.9) 60%,
-    rgba(255,255,255,1) 100%
-  );
-}
-
-.news-arrow {
-  position: absolute;
-  right: 8px;
-  bottom: 4px;
-  font-size: 0.9em;
-  color: #666;
-  pointer-events: none;
-}
-
-.news-outer {
-  /* create a new block formatting context so margins don't collapse */
-  display: flow-root;
-  /* ensure no bottom margin from the container itself */
-  margin-bottom: 0;
-  /* small transparent border also prevents margin collapse on some old browsers */
-  border-bottom: 1px solid transparent;
-}
-
-/* guard: remove top margin from the element immediately after the news box */
+/* Kill top margin of whatever element follows the news box (very common cause) */
 .news-outer + * {
   margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Extra guard: if your theme wraps the next element in extra containers, try a wider selector */
+.news-outer ~ * {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Keep the scroll/fade behaviour you have */
+.news-scroll { height: 100%; overflow-y: scroll !important; overflow-x: hidden !important; }
+.news-fade { pointer-events: none; position: absolute; left: 0; right: 0; bottom: 0; height: 22px; }
+
+/* If you still see a white strip, this removes any default bottom padding on the page content area */
+.site-main, .content, .page__content, .document, .post, main, .container {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
 }
 </style>
 
