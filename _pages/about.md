@@ -39,7 +39,7 @@ redirect_from:
   left: 0;
   right: 0;
   bottom: 0;
-  height: 22px;
+  height: 11px;
   background: linear-gradient(
     to bottom,
     rgba(255,255,255,0) 0%,
