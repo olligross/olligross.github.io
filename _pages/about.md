@@ -15,9 +15,10 @@ redirect_from:
   box-sizing: border-box;
   font-size: 75%;
   line-height: 1.2em;
-  margin: 0 !important;
+  margin: 0;
   padding-left: 40px;
   overflow: hidden;
+  margin-bottom: 0 !important;
 }
 
 .news-scroll {
@@ -47,19 +48,10 @@ redirect_from:
   );
 }
 
-/* Aggressively remove any spacing after the news section */
+/* Ensure no extra spacing after the news section */
 .news-outer + * {
   margin-top: 0 !important;
-}
-
-/* Remove spacing from h2 that might affect the news box */
-h2 {
   margin-bottom: 0 !important;
-}
-
-/* Target the news section specifically */
-h2 + .news-outer {
-  margin-top: 0 !important;
 }
 </style>
 
@@ -111,9 +103,10 @@ I am currently collaborating with the groups of [Prof. Martin Rumpf](https://ins
     <li>I presented our paper <strong>Filament Based Plasma</strong> at the <a href="www.geometrie.tuwien.ac.at/ig/events/dgs2022">Discrete Geometric Structures</a> workshop, Vienna</li>
     <li>I presented our paper <strong>Filament Based Plasma</strong> at <a href="https://s2022.siggraph.org/?utm_campaign=Registration%20Google%20Branded%20Search%20Ads&utm_source=search&utm_medium=search&utm_term&utm_content&cpn_id=628e734fede4f87920569773&e_id=60f70f258f0f937b1fd99273&gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCaJWq77rnpqAkFD4CXwuc4P1eCT1JivsGiyIgRmlyl6pH3FLh4Y1AQaAvAzEALw_wcB">SIGGRAPH 2022</a>, Vancouver</li>
     <li>I was invited by <a href="https://cseweb.ucsd.edu/~alchern/">Prof. Albert Chern</a> to give a talk on the <strong>Lagrangian Modeling and Geometric Optimization in Plasma Physics</strong> at UC San Diego</li>
-    <li>I was invited by <a href="https://olga-diamani.net">Prof. Olga Diamani</a> to give a talk on the <strong>Riemannian Geometry in Plasma Physics</strong> in the geometry seminar at TU Graz</li>
+    <li>I was invited by <a href="https://olga-diamanti.net">Prof. Olga Diamani</a> to give a talk on the <strong>Riemannian Geometry in Plasma Physics</strong> in the geometry seminar at TU Graz</li>
     <li>Our paper <strong>Filament Based Plasma</strong> was accepted by ACM Transactions on Graphics and will be presented at SIGGRAPH 2022, Vancouver</li>
     </ul>
   </div>
+
   <div class="news-fade" aria-hidden="true"></div>
 </div>
