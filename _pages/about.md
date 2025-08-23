@@ -17,7 +17,7 @@ redirect_from:
   line-height: 1.2em;
   margin: 0;
   padding-left: 40px;
-  overflow: visible;
+  overflow: hidden;
   margin-bottom: 0 !important;
 }
 
