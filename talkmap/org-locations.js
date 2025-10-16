@@ -108,5 +108,25 @@ var addressPoints = [
     "Graphics reading group at University College London - June 2025 - (Online)",
       51.52683939510145, 
       -0.13164175809963635
+  ],
+  [
+    "Geometry Workshop Obergurgl - Aug 2025 - Obergurgl, Austria",
+    46.86719325198634, 
+    11.025080900361253
+  ],
+  [
+    "12th Heidelberg Laureate Forum 2025 - Poster Flash Presentation - Oct. 2025 - Heidelberg, Germany",
+    49.410497, 
+    8.706554
+  ],
+  [
+    "Center for Relativity and Cosmology Seminar at Troy University - Oct. 2025 - (Online)",
+      31.80254698355791, 
+      -85.95707567226478
+  ],
+  [
+    "Toronto Geometry Colloqium at the University of Toronto - Oct. 2025 - Toronto, ON, Canada",
+    43.65976716052646, 
+    -79.39720517682218
   ]
 ];
