@@ -128,5 +128,20 @@ var addressPoints = [
     "Toronto Geometry Colloqium at the University of Toronto - Oct. 2025 - Toronto, ON, Canada",
     43.65976716052646, 
     -79.39720517682218
+  ],
+  [
+    "Graphics/Vision Seminar at MIT CSAIL - Oct. 2025 - Cambridge, MA, USA",
+    42.36183736633919, 
+    -71.09028943098349
+  ],
+  [
+    "Complex Rheology And Biomechanics Laboratory at Georgia Tech - Oct. 2025 - (Online)",
+    33.77747339377821, 
+    -84.39861057607487
+  ],
+  [
+    "Soft Math Lab at Harvard University - Oct. 2025 - Cambridge, MA, USA",
+    42.363273381253244, 
+    -71.12649658894532
   ]
 ];

@@ -68,6 +68,9 @@ I am currently collaborating with the groups of [Prof. Martin Rumpf](https://ins
 <div class="news-outer" aria-label="News">
   <div class="news-scroll" role="region" aria-live="polite">
     <ul>
+   <li> <a href="https://www.physics.harvard.edu/people/facpages/mahadevan">Prof. L. Mahadevan FRS</a> invited me to give a talk about <strong>Geometric Methods for Physics Simulation</strong> at the Soft Math Lab at  <a href="https://www.harvard.edu">Harvard University</a> CSAIL, Cambridge, MA, USA (Oct 2025)</li>
+    <li> <a href="https://physics.gatech.edu/user/daniel-goldman">Prof. Daniel Goldman</a> invited me to give an online talk about <strong>Inverse and Optimal Geometric Locomotion</strong> at the <a href="https://www.gatech.edu">Georgia Tech</a>, Atlanta, GA, USA (Oct 2025)</li>
+    <li> <a href="https://people.csail.mit.edu/jsolomon/">Prof. Justin Solomon</a> invited me to give a talk about <strong>Geometric Methods for Physics Simulation</strong> at the Graphics/Vision Seminar at  <a href="https://www.mit.edu">MIT</a> CSAIL, Cambridge, MA, USA (Oct 2025)</li>
 
     <li> <a href="https://www.dgp.toronto.edu/~eitan/">Prof. Eitan Grinspun</a> invited me to give a talk about <strong>Inverse and Optimal Geometric Locomotion</strong> at the <a href="https://www.utoronto.ca">University of Toronto</a>, Toronto, ON, Canada (Oct 2025)</li>
     <li> <a href="https://spectrum.troy.edu/radhikari/">Prof. Rakshak Adhikari</a> invited me to give an online talk titled <strong>Force-Free Fields are Conformally Geodesic</strong> at the <a href="https://www.troy.edu">Troy University</a>, Troy, AL, USA (Oct 2025)</li>
