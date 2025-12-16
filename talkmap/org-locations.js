@@ -143,5 +143,10 @@ var addressPoints = [
     "Soft Math Lab at Harvard University - Oct. 2025 - Cambridge, MA, USA",
     42.363273381253244, 
     -71.12649658894532
+  ],
+  [
+    "Computational Mathematics and Scientific Computing seminar at NYU Courant Institute of Mathematical Sciences - Dec. 2025 - New York City, NY, USA",
+    40.72871430793417, 
+    -73.99564464910499
   ]
 ];
