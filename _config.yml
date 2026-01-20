@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Dr. Oliver Gross"
+title: "Oliver Gross"
 title_separator: "-"
 name: &name "Dr. Oliver Gross"
 description: &description "Postdoc at UC San Diego"
