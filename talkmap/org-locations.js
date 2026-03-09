@@ -148,9 +148,8 @@ var addressPoints = [
     "Computational Mathematics and Scientific Computing seminar at NYU Courant Institute of Mathematical Sciences - Dec. 2025 - New York City, NY, USA",
     40.72871430793417, 
     -73.99564464910499
-  ]
-
-    [
+  ],
+  [
     "Center for Information Geometric Mechanics and Optimization (CIGMO) Seminar - MArch 2026 - (Online)",
     41.82600292135826, 
     -71.39759234160363
