@@ -75,7 +75,7 @@ I am currently collaborating with the groups of [Prof. Martin Rumpf](https://ins
 <div class="news-outer" aria-label="News">
   <div class="news-scroll" role="region" aria-live="polite">
     <ul>
-    <li> <a href="https://f-t-s.github.io">Prof. Florian Schäfer</a> invited me to give a online talk about <strong>Geometric Methods for Physics Simulation</strong> as part of the <a href="https://cigmo.github.io">Center for Information Geometric Mechanics and Optimization (CIGMO)</a> <a href="https://cigmo.github.io/seminars/">CIGMO seminar</a> (March 2026)</li>
+    <li> <a href="https://f-t-s.github.io">Prof. Florian Schäfer</a> invited me to give a online talk about <strong>Geometric Methods for Physics Simulation</strong> as part of the <a href="https://cigmo.github.io">Center for Information Geometric Mechanics and Optimization</a> <a href="https://cigmo.github.io/seminars/">CIGMO seminar</a> (March 2026)</li>
 
     <li> I will serve on the Technical Papers Commiteefor <a href="https://asia.siggraph.org/2026/">ACM Siggraph Asia 2026</a></li>
     <li> I will serve on the <a href="https://s2026.siggraph.org/technical-papers-committee/">Technical Papers Commitee</a> for <a href="https://s2026.siggraph.org/">ACM Siggraph 2026</a></li>
