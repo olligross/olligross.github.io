@@ -149,4 +149,10 @@ var addressPoints = [
     40.72871430793417, 
     -73.99564464910499
   ]
+
+    [
+    "Center for Information Geometric Mechanics and Optimization (CIGMO) Seminar - MArch 2026 - (Online)",
+    40.72871430793417, 
+    -73.99564464910499
+  ]
 ];
