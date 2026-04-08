@@ -150,8 +150,18 @@ var addressPoints = [
     -73.99564464910499
   ],
   [
-    "Center for Information Geometric Mechanics and Optimization (CIGMO) Seminar - MArch 2026 - (Online)",
+    "Center for Information Geometric Mechanics and Optimization (CIGMO) Seminar - March 2026 - (Online)",
     41.82600292135826, 
     -71.39759234160363
+  ],
+  [
+    "State-of-the-Art in Computer Graphics Workshop at Siggraph 2026 TPC Meeting - March 2026",
+    41.79062796170626, 
+    -87.60281108740342
+  ],
+  [
+    "Computer Science Research Institute at Sandia National Laboratories - April 2026",
+    35.056486165339024, 
+    -106.5251454109617
   ]
 ];
