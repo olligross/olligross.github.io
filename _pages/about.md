@@ -54,12 +54,17 @@ redirect_from:
   margin-bottom: 0 !important;
 }
 </style>
-
+<!---
 My research connects geometry and computation through variational principles and structure-preserving discretization. I study how geometric constraints and topology shape models and dynamics, and I design discretizations that preserve the resulting structure by construction. This yields mathematically grounded methods that remain stable in practice, with applications in geometry processing, simulation, and robotics.
 
 I am a postdoctoral researcher at the [University of California, San Diego](https://ucsd.edu), in the [Center for Visual Computing, Computer Science and Engineering](https://visualcomputing.ucsd.edu), working with [Prof. Albert Chern](https://cseweb.ucsd.edu/~alchern/).
 
 Previously, I was a postdoctoral researcher at [EPFL (Swiss Federal Institute of Technology, Lausanne)](https://www.epfl.ch/de/) in the [Geometric Computing Laboratory](https://www.epfl.ch/labs/gcm/) with [Prof. Mark Pauly](https://people.epfl.ch/mark.pauly), and I contributed as an investigator to SFB/TRR 109 ["Discretization in Geometry and Dynamics"](https://www.discretization.de) ([German Research Foundation](https://www.dfg.de/de)). I received my PhD in 2024 from the [Institute of Mathematics](https://www.tu.berlin/math) at [Technische Universität Berlin](https://www.math.tu-berlin.de/menue/home/parameter/en/), supervised by [Prof. Ulrich Pinkall](https://page.math.tu-berlin.de/~pinkall/) and [Prof. Peter Schröder](http://users.cms.caltech.edu/~ps/), and was a member of the Berlin Mathematical School. In 2023, I was a visiting researcher at [Caltech](https://www.caltech.edu).
+-->
+
+I am a postdoctoral researcher at [UC San Diego](https://ucsd.edu), working with [Albert Chern](https://cseweb.ucsd.edu/~alchern/) at the interface of geometric PDEs, physics simulation, and geometric algorithms. My research uses differential geometry, geometric mechanics, and variational principles to build structure-preserving discretizations that retain geometric and topological invariants by construction. These ideas connect problems in geometry processing, physical simulation, robotics, and computational mathematics.
+
+Previously, I was a postdoctoral researcher at [EPFL](https://www.epfl.ch/de/) with [Mark Pauly](https://people.epfl.ch/mark.pauly) and an investigator in the [DFG](https://www.dfg.de/de) research center SFB/TRR 109, [“Discretization in Geometry and Dynamics”](https://www.discretization.de). I received my PhD from [TU Berlin](https://www.math.tu-berlin.de/menue/home/parameter/en/) in 2024, summa cum laude, supervised by [Ulrich Pinkall](https://page.math.tu-berlin.de/~pinkall/) and [Peter Schröder](http://users.cms.caltech.edu/~ps/), including a research stay with the latter at [Caltech](https://www.caltech.edu).
 
 <!---I am a postdoctoral researcher at the [University of California, San Diego](https://ucsd.edu), in the [Center for Visual Computing, Computer Science and Engineering](https://visualcomputing.ucsd.edu), working with [Prof. Albert Chern](https://cseweb.ucsd.edu/~alchern/). I work in applied and computational mathematics, studying geometric structures that arise in physical and biological systems to develop efficient and reliable algorithms for applications in computer graphics, physics simulation, manufacturing, or robotics.
 
