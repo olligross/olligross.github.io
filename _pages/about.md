@@ -75,12 +75,18 @@ I am currently collaborating with the groups of [Prof. Martin Rumpf](https://ins
 <div class="news-outer" aria-label="News">
   <div class="news-scroll" role="region" aria-live="polite">
     <ul>
+    <li> <a href="https://www.math.lsu.edu/~walker/">Prof. Shawn Walker</a> invited me to give a talk about <strong>Geometric Methods for Physics Simulation</strong> for the workshop <a href="https://brinmrc.umd.edu/summer26-gpdecse/">Geometric PDE Challenges in Science and Engineering</a> at the <a href="https://brinmrc.umd.edu">Brin MRC</a>, <a href="https://umd.edu">University of Maryland</a> (June 2026)</li>
+
+    <li> <a href="https://gravishlab.ucsd.edu">Prof. Nick Gravish</a> invited me to give a talk about <strong>Geometric Methods in Motion Planning</strong> in the <a href="https://contextualrobotics.ucsd.edu">Contextual Robotics Institute</a> at <a href="https://ucsd.edu">UC San Diego</a> (April 2026)</li>
+
+    <li> <a href="https://tolley.eng.ucsd.edu">Prof. Michael Tolley</a> invited me to give a talk about <strong>Geometric Methods in Motion Planning</strong> in the <a href="https://bioinspired.ucsd.edu">Bioinspired Robotics and Design Lab</a> at <a href="https://ucsd.edu">UC San Diego</a> (April 2026)</li>
+
+    <li> <a href="https://cseweb.ucsd.edu/~tzli/">Prof. Tzu-Mao Li</a> invited me to give a talk about <strong>Geometric Methods in Motion Planning</strong> in the Pixel Cafe in the <a href="https://cse.ucsd.edu">CSE</a> department at <a href="https://ucsd.edu">UC San Diego</a> (April 2026)</li>
+
+
     <li> <a href="https://agrubertx.github.io">Dr. Anthony Gruber</a> invited me to give a talk about <strong>Geometric Methods for Physics Simulation</strong> at the <a href="https://www.sandia.gov/research/facilities/computer-science-research-institute-csri/">Computer Science Research Institute</a> at <a href="https://www.sandia.gov">Sandia National Laboratories</a> (April 2026)</li>
-
     <li>I gave a flash talk about <strong>Sub-Riemannian Geometry in Graphics</strong> at the <a href="https://justso1.github.io/siggraph-post-tpc-workshop-2026/">State-of-the-Art in Computer Graphics</a> workshop following the <a href="https://s2026.siggraph.org/technical-papers-committee/">Technical Papers Commitee</a> Meeting for <a href="https://s2026.siggraph.org/">Siggraph 2026</a> (March 2026)</li>
-
     <li> <a href="https://f-t-s.github.io">Prof. Florian Schäfer</a> invited me to give an online talk about <strong>Geometric Methods for Physics Simulation</strong> as part of the <a href="https://cigmo.github.io">Center for Information Geometric Mechanics and Optimization</a> <a href="https://cigmo.github.io/seminars/">CIGMO seminar</a> (March 2026)</li>
-
     <li> I will serve on the Technical Papers Commiteefor <a href="https://asia.siggraph.org/2026/">ACM Siggraph Asia 2026</a></li>
     <li> I will serve on the <a href="https://s2026.siggraph.org/technical-papers-committee/">Technical Papers Commitee</a> for <a href="https://s2026.siggraph.org/">ACM Siggraph 2026</a></li>
     <li> <a href="https://cims.nyu.edu/gcl/daniele.html">Prof. Daniele Panozzo</a> invited me to give a talk about <strong>Geometric Methods for Physics Simulation</strong> in the <a href="https://cims.nyu.edu/dynamic/calendars/seminars/computational-mathematics-and-scientific-computing-seminar/">Computational Mathematics and Scientific Computing seminar</a> at <a href="https://www.nyu.edu">NYU</a> <a href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences</a>, New York City, NY, USA (Dec 2025)</li>
