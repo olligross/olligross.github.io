@@ -75,7 +75,7 @@ I am currently collaborating with the groups of [Prof. Martin Rumpf](https://ins
 <div class="news-outer" aria-label="News">
   <div class="news-scroll" role="region" aria-live="polite">
     <ul>
-    <li> <a href="https://www.math.lsu.edu/~walker/">Prof. Shawn Walker</a> invited me to give a talk about <strong>Geometric Methods for Physics Simulation</strong> for the workshop <a href="https://brinmrc.umd.edu/summer26-gpdecse/">Geometric PDE Challenges in Science and Engineering</a> at the <a href="https://brinmrc.umd.edu">Brin MRC</a>, <a href="https://umd.edu">University of Maryland</a> (June 2026)</li>
+    <li> <a href="https://www.math.lsu.edu/~walker/">Prof. Shawn Walker</a> invited me to give a talk about <strong>Geometric Methods for Physics Simulation</strong> for the <a href="https://brinmrc.umd.edu">Brin MRC</a> workshop <a href="https://brinmrc.umd.edu/summer26-gpdecse/">Geometric PDE Challenges in Science and Engineering</a> at the  <a href="https://umd.edu">University of Maryland</a> (June 2026)</li>
 
     <li> <a href="https://gravishlab.ucsd.edu">Prof. Nick Gravish</a> invited me to give a talk about <strong>Geometric Methods in Motion Planning</strong> in the <a href="https://contextualrobotics.ucsd.edu">Contextual Robotics Institute</a> at <a href="https://ucsd.edu">UC San Diego</a> (April 2026)</li>
 
