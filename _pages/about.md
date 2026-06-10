@@ -86,16 +86,16 @@ Previously, I was a postdoctoral researcher at [EPFL](https://www.epfl.ch/de/) w
     <li><span class="news-date">03/26</span> Talk in the <a href="https://cigmo.github.io/seminars/">CIGMO seminar</a>, <em>Geometric Methods for Physics Simulation</em></li>
     <li><span class="news-date">2026</span> <a href="https://asia.siggraph.org/2026/">ACM SIGGRAPH Asia 2026</a> Technical Papers Committee</li>
     <li><span class="news-date">2026</span> <a href="https://s2026.siggraph.org/technical-papers-committee/">ACM SIGGRAPH 2026</a> Technical Papers Committee</li>
-    <li><span class="news-date">12/25</span> Talk at <a href="https://cims.nyu.edu/dynamic/">NYU Courant</a>, <em>Geometric Methods for Physics Simulation</em></li>
+    <li><span class="news-date">12/25</span> Talk at the <a href="https://cims.nyu.edu/gcl/">Geometric Computing Lab</a>, <a href="https://cims.nyu.edu/dynamic/">NYU Courant</a>, <em>Geometric Methods for Physics Simulation</em></li>
     <li><span class="news-date">10/25</span> Talk at the Soft Math Lab, <a href="https://www.harvard.edu">Harvard University</a>, <em>Geometric Methods for Physics Simulation</em></li>
-    <li><span class="news-date">10/25</span> Talk at <a href="https://www.gatech.edu">Georgia Tech</a>, <em>Inverse and Optimal Geometric Locomotion</em></li>
-    <li><span class="news-date">10/25</span> Talk at <a href="https://www.mit.edu">MIT</a> CSAIL, <em>Geometric Methods for Physics Simulation</em></li>
-    <li><span class="news-date">10/25</span> Talk at the <a href="https://www.utoronto.ca">University of Toronto</a>, <em>Inverse and Optimal Geometric Locomotion</em></li>
-    <li><span class="news-date">10/25</span> Talk at <a href="https://www.troy.edu">Troy University</a>, <em>Force-Free Fields are Conformally Geodesic</em></li>
+    <li><span class="news-date">10/25</span> Talk at the <a href="https://crablab.gatech.edu">CRAB Lab</a>, <a href="https://www.gatech.edu">Georgia Tech</a>, <em>Inverse and Optimal Geometric Locomotion</em></li>
+    <li><span class="news-date">10/25</span> Talk at the <a href="https://gdp.csail.mit.edu/">Geometric Data Processing Group</a>, <a href="https://www.mit.edu">MIT</a> CSAIL, <em>Geometric Methods for Physics Simulation</em></li>
+    <li><span class="news-date">10/25</span> Talk at the <a href="https://www.dgp.toronto.edu/">Dynamic Graphics Project</a>, <a href="https://www.utoronto.ca">University of Toronto</a>, <em>Inverse and Optimal Geometric Locomotion</em></li>
+    <li><span class="news-date">10/25</span> Talk at the <a href="https://www.troy.edu/academics/colleges-schools/college-science-engineering/departments/center-for-relativity-and-cosmology/index.html">Relativity and Cosmology Group</a>, <a href="https://www.troy.edu">Troy University</a>, <em>Force-Free Fields are Conformally Geodesic</em></li>
     <li><span class="news-date">10/25</span> SAP Young Researcher Grant, <a href="https://www.heidelberg-laureate-forum.org">12th Heidelberg Laureate Forum</a></li>
     <li><span class="news-date">10/25</span> Talk at the <a href="https://www.geometrie.tugraz.at/events/og2025.html">Geometry Workshop in Obergurgl 2025</a>, <em>Inverse and Optimal Geometric Locomotion</em></li>
     <li><span class="news-date">07/25</span> Led the project <em>How to fix a broken snake robot?</em> at the <a href="https://sgi.mit.edu">Summer Geometry Initiative 2025</a>, <a href="https://www.mit.edu">MIT</a></li>
-    <li><span class="news-date">06/25</span> Talk at <a href="https://www.ucl.ac.uk">University College London</a>, <em>Inverse Problems in Geometric Locomotion</em></li>
+    <li><span class="news-date">06/25</span> Talk at the <a href="https://geometry.cs.ucl.ac.uk/">Smart Geometry Processing Group</a>, <a href="https://www.ucl.ac.uk">University College London</a>, <em>Inverse Problems in Geometric Locomotion</em></li>
     <li><span class="news-date">05/25</span> <a href="https://olligross.github.io/projects/InverseGeometricLocomotion/InverseGeometricLocomotion_project.html">Inverse Geometric Locomotion</a> accepted to <em><a href="https://dl.acm.org/journal/tog">ACM Transactions on Graphics</a></em>, <a href="https://s2025.siggraph.org">SIGGRAPH 2025</a></li>
     <li><span class="news-date">2025</span> Technical Papers Conflict of Interest Coordinator, <a href="https://asia.siggraph.org/2025/">ACM SIGGRAPH Asia 2025</a></li>
     <li><span class="news-date">03/25</span> Talk in the <a href="https://seminargeotop-a.com">Geotop-A</a> web-seminar series, <em>Conformal Geometry in Magnetic Relaxation</em></li>
@@ -109,7 +109,7 @@ Previously, I was a postdoctoral researcher at [EPFL](https://www.epfl.ch/de/) w
     <li><span class="news-date">03/24</span> Going with the Flow accepted to <em>ACM Transactions on Graphics</em>, SIGGRAPH 2024</li>
     <li><span class="news-date">02/24</span> Talk at the <a href="https://oden.utexas.edu">ODEN Institute</a>, <a href="https://www.utexas.edu">UT Austin</a>, <em>Geometric Approaches to Fluid Simulations</em></li>
     <li><span class="news-date">02/24</span> Research visit to <a href="https://www.utexas.edu">UT Austin</a></li>
-    <li><span class="news-date">11/23</span> Talk at the <a href="https://www.uni-bonn.de/en">University of Bonn</a>, <em>Shifting Shapes with Shape Shifts</em></li>
+    <li><span class="news-date">11/23</span> Talk at the <a href="https://sfb1060.iam.uni-bonn.de">SFB 1060</a>, <a href="https://www.uni-bonn.de/en">University of Bonn</a>, <em>Shifting Shapes with Shape Shifts</em></li>
     <li><span class="news-date">11/23</span> Talk at the <a href="https://www.epfl.ch/labs/gcm/">Geometric Computing Laboratory</a>, <a href="https://www.epfl.ch/en/">EPFL</a>, <em>Variational Energies for Curves with Variable Thickness</em></li>
     <li><span class="news-date">10/23</span> Talk at the <a href="https://minirolab.nd.edu">MiNiRoLab</a>, <a href="https://www.nd.edu">University of Notre Dame</a>, <em>Geometric Mechanics for Physics Simulation</em></li>
     <li><span class="news-date">10/23</span> <em>Motion from Shape Change</em> featured in <a href="https://scilogs.spektrum.de/hlf/posters-of-progress-all-eyes-on-the-young-researchers-taking-the-stage/">Spektrum.de SciLogs</a></li>
