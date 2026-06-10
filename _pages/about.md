@@ -73,63 +73,64 @@ I am a postdoctoral researcher at [UC San Diego](https://ucsd.edu), working with
 
 Previously, I was a postdoctoral researcher at [EPFL](https://www.epfl.ch/de/) with [Mark Pauly](https://people.epfl.ch/mark.pauly) and an investigator in the [DFG](https://www.dfg.de/de) research center SFB/TRR 109, [“Discretization in Geometry and Dynamics”](https://www.discretization.de). I received my PhD from [TU Berlin](https://www.math.tu-berlin.de/menue/home/parameter/en/) in 2024, summa cum laude, supervised by [Ulrich Pinkall](https://page.math.tu-berlin.de/~pinkall/) and [Peter Schröder](http://users.cms.caltech.edu/~ps/), including a research stay with the latter at [Caltech](https://www.caltech.edu).
 
+## News
 <div class="news-outer" aria-label="News">
   <div class="news-scroll" role="region" aria-live="polite">
     <ul>
-    <li><span class="news-date">06/26</span> Talk at the <a href="https://brinmrc.umd.edu/summer26-gpdecse/">Brin MRC workshop on Geometric PDE Challenges</a>, <a href="https://umd.edu">University of Maryland</a>, <strong>Geometric Methods for Physics Simulation</strong></li>
-    <li><span class="news-date">04/26</span> Talk at the <a href="https://contextualrobotics.ucsd.edu">Contextual Robotics Institute</a>, <a href="https://ucsd.edu">UC San Diego</a>, <strong>Geometric Methods in Motion Planning</strong></li>
-    <li><span class="news-date">04/26</span> Talk at the <a href="https://bioinspired.ucsd.edu">Bioinspired Robotics and Design Lab</a>, <a href="https://ucsd.edu">UC San Diego</a>, <strong>Geometric Methods in Motion Planning</strong></li>
-    <li><span class="news-date">04/26</span> Talk at the Pixel Cafe, <a href="https://cse.ucsd.edu">CSE</a>, <a href="https://ucsd.edu">UC San Diego</a>, <strong>Geometric Methods in Motion Planning</strong></li>
-    <li><span class="news-date">04/26</span> Talk at the <a href="https://www.sandia.gov/research/facilities/computer-science-research-institute-csri/">Computer Science Research Institute</a>, <a href="https://www.sandia.gov">Sandia National Laboratories</a>, <strong>Geometric Methods for Physics Simulation</strong></li>
-    <li><span class="news-date">03/26</span> Flash talk at the <a href="https://justso1.github.io/siggraph-post-tpc-workshop-2026/">State-of-the-Art in Computer Graphics</a> workshop, <a href="https://s2026.siggraph.org/">SIGGRAPH 2026</a>, <strong>Sub-Riemannian Geometry in Graphics</strong></li>
-    <li><span class="news-date">03/26</span> Talk in the <a href="https://cigmo.github.io/seminars/">CIGMO seminar</a>, <strong>Geometric Methods for Physics Simulation</strong></li>
-    <li><span class="news-date">2026</span> <a href="https://asia.siggraph.org/2026/">ACM SIGGRAPH Asia 2026</a> Technical Papers Committee</li>
-    <li><span class="news-date">2026</span> <a href="https://s2026.siggraph.org/technical-papers-committee/">ACM SIGGRAPH 2026</a> Technical Papers Committee</li>
-    <li><span class="news-date">12/25</span> Talk at <a href="https://cims.nyu.edu/dynamic/">NYU Courant</a>, <strong>Geometric Methods for Physics Simulation</strong></li>
-    <li><span class="news-date">10/25</span> Talk at the Soft Math Lab, <a href="https://www.harvard.edu">Harvard University</a>, <strong>Geometric Methods for Physics Simulation</strong></li>
-    <li><span class="news-date">10/25</span> Talk at <a href="https://www.gatech.edu">Georgia Tech</a>, <strong>Inverse and Optimal Geometric Locomotion</strong></li>
-    <li><span class="news-date">10/25</span> Talk at <a href="https://www.mit.edu">MIT</a> CSAIL, <strong>Geometric Methods for Physics Simulation</strong></li>
-    <li><span class="news-date">10/25</span> Talk at the <a href="https://www.utoronto.ca">University of Toronto</a>, <strong>Inverse and Optimal Geometric Locomotion</strong></li>
-    <li><span class="news-date">10/25</span> Talk at <a href="https://www.troy.edu">Troy University</a>, <strong>Force-Free Fields are Conformally Geodesic</strong></li>
+    <li><span class="news-date">06/26</span> Talk at the <a href="https://brinmrc.umd.edu/summer26-gpdecse/">Brin MRC workshop on Geometric PDE Challenges</a>, <strong><a href="https://umd.edu">University of Maryland</a></strong>, <em>Geometric Methods for Physics Simulation</em></li>
+    <li><span class="news-date">04/26</span> Talk at the <a href="https://contextualrobotics.ucsd.edu">Contextual Robotics Institute</a>, <strong><a href="https://ucsd.edu">UC San Diego</a></strong>, <em>Geometric Methods in Motion Planning</em></li>
+    <li><span class="news-date">04/26</span> Talk at the <a href="https://bioinspired.ucsd.edu">Bioinspired Robotics and Design Lab</a>, <strong><a href="https://ucsd.edu">UC San Diego</a></strong>, <em>Geometric Methods in Motion Planning</em></li>
+    <li><span class="news-date">04/26</span> Talk at the Pixel Cafe, <a href="https://cse.ucsd.edu">CSE</a>, <strong><a href="https://ucsd.edu">UC San Diego</a></strong>, <em>Geometric Methods in Motion Planning</em></li>
+    <li><span class="news-date">04/26</span> Talk at the <a href="https://www.sandia.gov/research/facilities/computer-science-research-institute-csri/">Computer Science Research Institute</a>, <strong><a href="https://www.sandia.gov">Sandia National Laboratories</a></strong>, <em>Geometric Methods for Physics Simulation</em></li>
+    <li><span class="news-date">03/26</span> Flash talk at the <a href="https://justso1.github.io/siggraph-post-tpc-workshop-2026/">State-of-the-Art in Computer Graphics</a> workshop, <strong><a href="https://s2026.siggraph.org/">SIGGRAPH 2026</a></strong>, <em>Sub-Riemannian Geometry in Graphics</em></li>
+    <li><span class="news-date">03/26</span> Talk in the <strong><a href="https://cigmo.github.io/seminars/">CIGMO seminar</a></strong>, <em>Geometric Methods for Physics Simulation</em></li>
+    <li><span class="news-date">2026</span> <strong><a href="https://asia.siggraph.org/2026/">ACM SIGGRAPH Asia 2026</a></strong> Technical Papers Committee</li>
+    <li><span class="news-date">2026</span> <strong><a href="https://s2026.siggraph.org/technical-papers-committee/">ACM SIGGRAPH 2026</a></strong> Technical Papers Committee</li>
+    <li><span class="news-date">12/25</span> Talk at <strong><a href="https://cims.nyu.edu/dynamic/">NYU Courant</a></strong>, <em>Geometric Methods for Physics Simulation</em></li>
+    <li><span class="news-date">10/25</span> Talk at the Soft Math Lab, <strong><a href="https://www.harvard.edu">Harvard University</a></strong>, <em>Geometric Methods for Physics Simulation</em></li>
+    <li><span class="news-date">10/25</span> Talk at <strong><a href="https://www.gatech.edu">Georgia Tech</a></strong>, <em>Inverse and Optimal Geometric Locomotion</em></li>
+    <li><span class="news-date">10/25</span> Talk at <strong><a href="https://www.mit.edu">MIT</a></strong> CSAIL, <em>Geometric Methods for Physics Simulation</em></li>
+    <li><span class="news-date">10/25</span> Talk at the <strong><a href="https://www.utoronto.ca">University of Toronto</a></strong>, <em>Inverse and Optimal Geometric Locomotion</em></li>
+    <li><span class="news-date">10/25</span> Talk at <strong><a href="https://www.troy.edu">Troy University</a></strong>, <em>Force-Free Fields are Conformally Geodesic</em></li>
     <li><span class="news-date">10/25</span> <strong>SAP Young Researcher Grant</strong>, <a href="https://www.heidelberg-laureate-forum.org">12th Heidelberg Laureate Forum</a></li>
-    <li><span class="news-date">10/25</span> Talk at the <a href="https://www.geometrie.tugraz.at/events/og2025.html">Geometry Workshop in Obergurgl 2025</a>, <strong>Inverse and Optimal Geometric Locomotion</strong></li>
-    <li><span class="news-date">07/25</span> Led the project <strong>How to fix a broken snake robot?</strong> at the <a href="https://sgi.mit.edu">Summer Geometry Initiative 2025</a>, <a href="https://www.mit.edu">MIT</a></li>
-    <li><span class="news-date">06/25</span> Talk at <a href="https://www.ucl.ac.uk">University College London</a>, <strong>Inverse Problems in Geometric Locomotion</strong></li>
-    <li><span class="news-date">05/25</span> <a href="https://olligross.github.io/projects/InverseGeometricLocomotion/InverseGeometricLocomotion_project.html">Inverse Geometric Locomotion</a> accepted to <a href="https://dl.acm.org/journal/tog">ACM Transactions on Graphics</a>, <a href="https://s2025.siggraph.org">SIGGRAPH 2025</a></li>
-    <li><span class="news-date">2025</span> Technical Papers Conflict of Interest Coordinator, <a href="https://asia.siggraph.org/2025/">ACM SIGGRAPH Asia 2025</a></li>
-    <li><span class="news-date">03/25</span> Talk in the <a href="https://seminargeotop-a.com">Geotop-A</a> web-seminar series, <strong>Conformal Geometry in Magnetic Relaxation</strong></li>
-    <li><span class="news-date">03/25</span> Talk at <a href="https://www.durham.ac.uk">Durham University</a>, <strong>Conformal Geometry in ideal MHD</strong></li>
-    <li><span class="news-date">12/24</span> Talk at the SPECtaculars' meeting, <strong>Force-Free Fields are Conformally Geodesic</strong></li>
-    <li><span class="news-date">11/24</span> Talk at the <a href="https://ist.ac.at/home">Institute of Science and Technology Austria</a>, <strong>Conformal Geodesibility and Ideal MHD</strong></li>
-    <li><span class="news-date">06/24</span> Talk at <a href="https://www.kau.se/en/equadiff">EQUADIFF 2024</a>, <a href="https://www.kau.se/en">Karlstad University</a>, <strong>Geometry of Plasma Knots</strong></li>
-    <li><span class="news-date">05/24</span> Defended my PhD thesis <a href="https://doi.org/10.14279/depositonce-20666">Conformal Geometry in Ideal Magnetohydrodynamics</a>, summa cum laude</li>
-    <li><span class="news-date">04/24</span> Poster with <a href="https://minirolab.nd.edu/team/phd-graduate-students/sean-even/">Sean Even</a> at the <a href="https://www.ttic.edu/mwrw/#call">2024 Midwest Robotics Workshop</a>, <strong>Optimizing Robotic Snake Gait with Machine Learning and Shape Change Algorithms</strong></li>
-    <li><span class="news-date">04/24</span> <a href="https://wiki.freitagsrunde.org/Datei:TT-CG-Houdini-Banner_April_2024.jpg">Workshop</a> on <strong>Houdini for Computer Graphics</strong>, <a href="https://www.tu.berlin/eecs">TU Berlin</a></li>
-    <li><span class="news-date">03/24</span> <strong>Going with the Flow</strong> accepted to ACM Transactions on Graphics, SIGGRAPH 2024</li>
-    <li><span class="news-date">02/24</span> Talk at the <a href="https://oden.utexas.edu">ODEN Institute</a>, <a href="https://www.utexas.edu">UT Austin</a>, <strong>Geometric Approaches to Fluid Simulations</strong></li>
-    <li><span class="news-date">02/24</span> Research visit to <a href="https://www.utexas.edu">UT Austin</a></li>
-    <li><span class="news-date">11/23</span> Talk at the <a href="https://www.uni-bonn.de/en">University of Bonn</a>, <strong>Shifting Shapes with Shape Shifts</strong></li>
-    <li><span class="news-date">11/23</span> Talk at the <a href="https://www.epfl.ch/labs/gcm/">Geometric Computing Laboratory</a>, <a href="https://www.epfl.ch/en/">EPFL</a>, <strong>Variational Energies for Curves with Variable Thickness</strong></li>
-    <li><span class="news-date">10/23</span> Talk at the <a href="https://minirolab.nd.edu">MiNiRoLab</a>, <a href="https://www.nd.edu">University of Notre Dame</a>, <strong>Geometric Mechanics for Physics Simulation</strong></li>
-    <li><span class="news-date">10/23</span> <strong>Motion from Shape Change</strong> featured in <a href="https://scilogs.spektrum.de/hlf/posters-of-progress-all-eyes-on-the-young-researchers-taking-the-stage/">Spektrum.de SciLogs</a></li>
-    <li><span class="news-date">09/23</span> <strong>Motion from Shape Change</strong> featured in <a href="https://spectrum.ieee.org/serpentine-motion">IEEE Spectrum</a></li>
-    <li><span class="news-date">08/23</span> Talk at the <a href="http://www.geometrie.tugraz.at/events/og2023.html">Geometry Workshop Obergurgl 2023</a>, <strong>Motion from Shape Change</strong></li>
-    <li><span class="news-date">08/23</span> Talk at <a href="https://s2023.siggraph.org">ACM SIGGRAPH 2023</a>, <strong>Motion from Shape Change</strong></li>
-    <li><span class="news-date">08/23</span> <strong>Motion from Shape Change</strong> featured by <a href="https://www.caltech.edu/about/news/what-do-a-jellyfish-a-cat-a-snake-and-an-astronaut-have-in-common-math">Caltech News</a></li>
-    <li><span class="news-date">08/23</span> Poster at <a href="https://www.admissions.caltech.edu/visit/visit-campus/summer-preview-women-stem">Caltech's Women in STEM program</a>, <strong>Motion from Shape Change</strong></li>
-    <li><span class="news-date">06/23</span> <strong>Plasma Knots</strong> accepted to <a href="https://www.sciencedirect.com/journal/physics-letters-a">Physics Letters A</a></li>
-    <li><span class="news-date">05/23</span> Poster at the <a href="https://www.cms.caltech.edu/news-events/meeting-of-the-minds">CMS + IST Meeting of the Minds</a>, <a href="https://www.caltech.edu">Caltech</a>, <strong>Motion from Shape Change</strong></li>
-    <li><span class="news-date">2023</span> Selected for the <a href="https://www.heidelberg-laureate-forum.org">10th Heidelberg Laureate Forum</a></li>
-    <li><span class="news-date">04/23</span> Talk at the Pixel Cafe, <a href="https://cse.ucsd.edu">CSE</a>, <a href="https://ucsd.edu">UC San Diego</a>, <strong>Shifting Shapes with Shape Shifts</strong></li>
-    <li><span class="news-date">03/23</span> Talk at the <a href="http://cmx.caltech.edu">CMX Student/Postdoc Seminar</a>, <a href="https://www.caltech.edu">Caltech</a>, <strong>Filament Based Plasma</strong></li>
-    <li><span class="news-date">02/23</span> Talk at the <a href="http://www.bellanplasmagroup.caltech.edu">Bellan Plasma Group</a>, <a href="https://www.caltech.edu">Caltech</a>, <strong>A Geometric Approach to Magnetic Relaxation</strong></li>
-    <li><span class="news-date">01/23</span> Began a research stay at <a href="https://www.caltech.edu">Caltech</a></li>
-    <li><span class="news-date">2023</span> <strong>Filament Based Plasma</strong> featured in the <a href="https://www.dfg.de/dfg_magazin/aus_der_forschung/dfg_kalender_2023/index.html">DFG Calendar</a></li>
-    <li><span class="news-date">08/22</span> Talk at the <a href="https://www.geometrie.tuwien.ac.at/ig/events/dgs2022">Discrete Geometric Structures</a> workshop, Vienna, <strong>Filament Based Plasma</strong></li>
-    <li><span class="news-date">08/22</span> Talk at <a href="https://s2022.siggraph.org/">SIGGRAPH 2022</a>, <strong>Filament Based Plasma</strong></li>
-    <li><span class="news-date">07/22</span> Talk at <a href="https://ucsd.edu">UC San Diego</a>, <strong>Lagrangian Modeling and Geometric Optimization in Plasma Physics</strong></li>
-    <li><span class="news-date">05/22</span> Talk at the Geometry Seminar, TU Graz, <strong>Riemannian Geometry in Plasma Physics</strong></li>
-    <li><span class="news-date">2022</span> <strong>Filament Based Plasma</strong> accepted to ACM Transactions on Graphics, SIGGRAPH 2022</li>
+    <li><span class="news-date">10/25</span> Talk at the <strong><a href="https://www.geometrie.tugraz.at/events/og2025.html">Geometry Workshop in Obergurgl 2025</a></strong>, <em>Inverse and Optimal Geometric Locomotion</em></li>
+    <li><span class="news-date">07/25</span> Led the project <em>How to fix a broken snake robot?</em> at the <strong><a href="https://sgi.mit.edu">Summer Geometry Initiative 2025</a></strong>, <a href="https://www.mit.edu">MIT</a></li>
+    <li><span class="news-date">06/25</span> Talk at <strong><a href="https://www.ucl.ac.uk">University College London</a></strong>, <em>Inverse Problems in Geometric Locomotion</em></li>
+    <li><span class="news-date">05/25</span> <strong><a href="https://olligross.github.io/projects/InverseGeometricLocomotion/InverseGeometricLocomotion_project.html">Inverse Geometric Locomotion</a></strong> accepted to <em><a href="https://dl.acm.org/journal/tog">ACM Transactions on Graphics</a></em>, <a href="https://s2025.siggraph.org">SIGGRAPH 2025</a></li>
+    <li><span class="news-date">2025</span> Technical Papers Conflict of Interest Coordinator, <strong><a href="https://asia.siggraph.org/2025/">ACM SIGGRAPH Asia 2025</a></strong></li>
+    <li><span class="news-date">03/25</span> Talk in the <strong><a href="https://seminargeotop-a.com">Geotop-A</a></strong> web-seminar series, <em>Conformal Geometry in Magnetic Relaxation</em></li>
+    <li><span class="news-date">03/25</span> Talk at <strong><a href="https://www.durham.ac.uk">Durham University</a></strong>, <em>Conformal Geometry in ideal MHD</em></li>
+    <li><span class="news-date">12/24</span> Talk at the <strong>SPECtaculars' meeting</strong>, <em>Force-Free Fields are Conformally Geodesic</em></li>
+    <li><span class="news-date">11/24</span> Talk at the <strong><a href="https://ist.ac.at/home">Institute of Science and Technology Austria</a></strong>, <em>Conformal Geodesibility and Ideal MHD</em></li>
+    <li><span class="news-date">06/24</span> Talk at <a href="https://www.kau.se/en/equadiff">EQUADIFF 2024</a>, <strong><a href="https://www.kau.se/en">Karlstad University</a></strong>, <em>Geometry of Plasma Knots</em></li>
+    <li><span class="news-date">05/24</span> Defended my PhD thesis <em><a href="https://doi.org/10.14279/depositonce-20666">Conformal Geometry in Ideal Magnetohydrodynamics</a></em>, <strong>summa cum laude</strong></li>
+    <li><span class="news-date">04/24</span> Poster with <a href="https://minirolab.nd.edu/team/phd-graduate-students/sean-even/">Sean Even</a> at the <strong><a href="https://www.ttic.edu/mwrw/#call">2024 Midwest Robotics Workshop</a></strong>, <em>Optimizing Robotic Snake Gait with Machine Learning and Shape Change Algorithms</em></li>
+    <li><span class="news-date">04/24</span> <a href="https://wiki.freitagsrunde.org/Datei:TT-CG-Houdini-Banner_April_2024.jpg">Workshop</a> on <em>Houdini for Computer Graphics</em>, <strong><a href="https://www.tu.berlin/eecs">TU Berlin</a></strong></li>
+    <li><span class="news-date">03/24</span> <strong>Going with the Flow</strong> accepted to <em>ACM Transactions on Graphics</em>, SIGGRAPH 2024</li>
+    <li><span class="news-date">02/24</span> Talk at the <a href="https://oden.utexas.edu">ODEN Institute</a>, <strong><a href="https://www.utexas.edu">UT Austin</a></strong>, <em>Geometric Approaches to Fluid Simulations</em></li>
+    <li><span class="news-date">02/24</span> Research visit to <strong><a href="https://www.utexas.edu">UT Austin</a></strong></li>
+    <li><span class="news-date">11/23</span> Talk at the <strong><a href="https://www.uni-bonn.de/en">University of Bonn</a></strong>, <em>Shifting Shapes with Shape Shifts</em></li>
+    <li><span class="news-date">11/23</span> Talk at the <a href="https://www.epfl.ch/labs/gcm/">Geometric Computing Laboratory</a>, <strong><a href="https://www.epfl.ch/en/">EPFL</a></strong>, <em>Variational Energies for Curves with Variable Thickness</em></li>
+    <li><span class="news-date">10/23</span> Talk at the <a href="https://minirolab.nd.edu">MiNiRoLab</a>, <strong><a href="https://www.nd.edu">University of Notre Dame</a></strong>, <em>Geometric Mechanics for Physics Simulation</em></li>
+    <li><span class="news-date">10/23</span> <em>Motion from Shape Change</em> featured in <strong><a href="https://scilogs.spektrum.de/hlf/posters-of-progress-all-eyes-on-the-young-researchers-taking-the-stage/">Spektrum.de SciLogs</a></strong></li>
+    <li><span class="news-date">09/23</span> <em>Motion from Shape Change</em> featured in <strong><a href="https://spectrum.ieee.org/serpentine-motion">IEEE Spectrum</a></strong></li>
+    <li><span class="news-date">08/23</span> Talk at the <strong><a href="http://www.geometrie.tugraz.at/events/og2023.html">Geometry Workshop Obergurgl 2023</a></strong>, <em>Motion from Shape Change</em></li>
+    <li><span class="news-date">08/23</span> Talk at <strong><a href="https://s2023.siggraph.org">ACM SIGGRAPH 2023</a></strong>, <em>Motion from Shape Change</em></li>
+    <li><span class="news-date">08/23</span> <em>Motion from Shape Change</em> featured by <strong><a href="https://www.caltech.edu/about/news/what-do-a-jellyfish-a-cat-a-snake-and-an-astronaut-have-in-common-math">Caltech News</a></strong></li>
+    <li><span class="news-date">08/23</span> Poster at <strong><a href="https://www.admissions.caltech.edu/visit/visit-campus/summer-preview-women-stem">Caltech's Women in STEM program</a></strong>, <em>Motion from Shape Change</em></li>
+    <li><span class="news-date">06/23</span> <strong>Plasma Knots</strong> accepted to <em><a href="https://www.sciencedirect.com/journal/physics-letters-a">Physics Letters A</a></em></li>
+    <li><span class="news-date">05/23</span> Poster at the <a href="https://www.cms.caltech.edu/news-events/meeting-of-the-minds">CMS + IST Meeting of the Minds</a>, <strong><a href="https://www.caltech.edu">Caltech</a></strong>, <em>Motion from Shape Change</em></li>
+    <li><span class="news-date">2023</span> Selected for the <strong><a href="https://www.heidelberg-laureate-forum.org">10th Heidelberg Laureate Forum</a></strong></li>
+    <li><span class="news-date">04/23</span> Talk at the Pixel Cafe, <a href="https://cse.ucsd.edu">CSE</a>, <strong><a href="https://ucsd.edu">UC San Diego</a></strong>, <em>Shifting Shapes with Shape Shifts</em></li>
+    <li><span class="news-date">03/23</span> Talk at the <a href="http://cmx.caltech.edu">CMX Student/Postdoc Seminar</a>, <strong><a href="https://www.caltech.edu">Caltech</a></strong>, <em>Filament Based Plasma</em></li>
+    <li><span class="news-date">02/23</span> Talk at the <a href="http://www.bellanplasmagroup.caltech.edu">Bellan Plasma Group</a>, <strong><a href="https://www.caltech.edu">Caltech</a></strong>, <em>A Geometric Approach to Magnetic Relaxation</em></li>
+    <li><span class="news-date">01/23</span> Began a research stay at <strong><a href="https://www.caltech.edu">Caltech</a></strong></li>
+    <li><span class="news-date">2023</span> <em>Filament Based Plasma</em> featured in the <strong><a href="https://www.dfg.de/dfg_magazin/aus_der_forschung/dfg_kalender_2023/index.html">DFG Calendar</a></strong></li>
+    <li><span class="news-date">08/22</span> Talk at the <strong><a href="https://www.geometrie.tuwien.ac.at/ig/events/dgs2022">Discrete Geometric Structures</a></strong> workshop, Vienna, <em>Filament Based Plasma</em></li>
+    <li><span class="news-date">08/22</span> Talk at <strong><a href="https://s2022.siggraph.org/">SIGGRAPH 2022</a></strong>, <em>Filament Based Plasma</em></li>
+    <li><span class="news-date">07/22</span> Talk at <strong><a href="https://ucsd.edu">UC San Diego</a></strong>, <em>Lagrangian Modeling and Geometric Optimization in Plasma Physics</em></li>
+    <li><span class="news-date">05/22</span> Talk at the Geometry Seminar, <strong>TU Graz</strong>, <em>Riemannian Geometry in Plasma Physics</em></li>
+    <li><span class="news-date">2022</span> <strong>Filament Based Plasma</strong> accepted to <em>ACM Transactions on Graphics</em>, SIGGRAPH 2022</li>
     </ul>
   </div>
 </div>
