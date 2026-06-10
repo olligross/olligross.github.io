@@ -163,5 +163,21 @@ var addressPoints = [
     "Computer Science Research Institute at Sandia National Laboratories - April 2026",
     35.056486165339024, 
     -106.5251454109617
-  ]
+  ],
+  [
+    "CSE Pixel Cafe at UC San Diego - April 2026",
+    32.88167993962836, -117.23378051526865
+  ],
+  [
+    "Bioinspired Robotics and Design Lab at UC San Diego - April 2026",
+    32.88364127686764, -117.23504639681421
+  ],
+  [
+    "Contextual Robotics Institute Seminar at UC San Diego - April 2026",
+    32.88364127686764, -117.23504639681421
+  ],
+  [
+    "Brin Mathematical Research Center at the University of Maryland - June 2026",
+    38.99007708030171, -76.93621152072008
+  ],
 ];
