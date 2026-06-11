@@ -38,7 +38,7 @@
   }
 
   .publications-list col:first-child {
-    width: 154px !important;
+    width: 130px !important;
   }
 
   .publications-list td {
@@ -69,13 +69,13 @@
 
   .publication-entry td:first-child {
     padding-right: 18px !important;
-    width: 154px;
+    width: 130px;
   }
 
   .publication-entry img {
     display: block;
-    width: 136px !important;
-    height: 136px !important;
+    width: 112px !important;
+    height: 112px !important;
     object-fit: cover !important;
   }
 
@@ -89,7 +89,7 @@
     display: inline-block;
     margin-top: 0.04em;
     color: mix(#fff, $text-color, 35%);
-    font-size: 6pt;
+    font-size: inherit;
   }
 
   .publications-list font[size="3"] {
