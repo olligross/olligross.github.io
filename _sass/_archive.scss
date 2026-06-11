@@ -113,17 +113,19 @@
   }
 
   .talk-entry__title {
+    font-size: $type-size-6;
     font-style: italic;
   }
 
   .talk-entry__venue {
     margin-top: 0.08em;
+    font-size: $type-size-6;
   }
 
   .talk-entry__meta {
     margin-top: 0.04em;
     color: mix(#fff, $text-color, 35%);
-    font-size: 0.9em;
+    font-size: $type-size-6;
   }
 
   @include breakpoint(max-width $small) {
