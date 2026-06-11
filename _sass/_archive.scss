@@ -30,6 +30,118 @@
       color: $link-color-hover;
     }
   }
+
+  .talks-page {
+    margin-top: 0.25em;
+  }
+
+  .talks-map-section {
+    margin-bottom: 1.75em;
+  }
+
+  .talks-map-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+  }
+
+  .talks-map-link {
+    color: $link-color;
+    font-size: $type-size-6;
+    white-space: nowrap;
+
+    &:visited {
+      color: $link-color;
+    }
+
+    &:hover {
+      color: $link-color-hover;
+    }
+  }
+
+  .talks-map-frame {
+    display: block;
+    width: 100%;
+    height: 360px;
+    border: 1px solid $border-color;
+  }
+
+  .talks-section {
+    margin-top: 1.6em;
+  }
+
+  .talks-section-title {
+    margin: 0;
+    padding-bottom: 0.35em;
+    font-size: $type-size-4;
+    border-bottom: 1px solid $border-color;
+  }
+
+  .talks-timeline {
+    margin: 0 0 1.25em 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .talk-entry {
+    display: grid;
+    grid-template-columns: 4.2em minmax(0, 1fr);
+    gap: 0.9em;
+    padding: 0.48em 0;
+    border-bottom: 1px solid mix(#fff, $border-color, 45%);
+    line-height: 1.32;
+  }
+
+  .talk-entry__date {
+    color: #777;
+    font-size: $type-size-6;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .talk-entry__body {
+    min-width: 0;
+  }
+
+  .talk-entry__title,
+  .talk-entry__venue,
+  .talk-entry__meta {
+    display: block;
+  }
+
+  .talk-entry__title {
+    font-style: italic;
+  }
+
+  .talk-entry__venue {
+    margin-top: 0.08em;
+  }
+
+  .talk-entry__meta {
+    margin-top: 0.04em;
+    color: mix(#fff, $text-color, 35%);
+    font-size: 0.9em;
+  }
+
+  @include breakpoint(max-width $small) {
+    .talks-map-header {
+      align-items: flex-start;
+      flex-direction: column;
+      gap: 0.2em;
+    }
+
+    .talks-map-frame {
+      height: 300px;
+    }
+
+    .talk-entry {
+      grid-template-columns: 3.8em minmax(0, 1fr);
+      gap: 0.65em;
+    }
+  }
 }
 
 .archive__subtitle {
