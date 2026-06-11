@@ -33,7 +33,7 @@
 
   .talks-page {
     margin-top: 0.25em;
-    max-width: 850px;
+    max-width: 800px;
   }
 
   .talks-map-section {
@@ -126,7 +126,7 @@
   .talk-entry__meta {
     margin-top: 0.04em;
     color: mix(#fff, $text-color, 35%);
-    font-size: $type-size-7;
+    font-size: 4pt;
   }
 
   @include breakpoint(max-width $small) {
