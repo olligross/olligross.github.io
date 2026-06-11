@@ -23,8 +23,31 @@
     		var tiles = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
               maxZoom: 18,
               attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
-                    }),
-    			latlng = L.latLng(30, 10);
+                    });
+        function getMeanLatLng(points) {
+          var latTotal = 0;
+          var lngTotal = 0;
+          var count = 0;
+
+          for (var i = 0; i < points.length; i++) {
+            var lat = points[i][1];
+            var lng = points[i][2];
+
+            if (typeof lat === 'number' && typeof lng === 'number') {
+              latTotal += lat;
+              lngTotal += lng;
+              count++;
+            }
+          }
+
+          if (count === 0) {
+            return L.latLng(30, 10);
+          }
+
+          return L.latLng(latTotal / count, lngTotal / count);
+        }
+
+        var latlng = getMeanLatLng(addressPoints);
     		var map = L.map('map', {center: latlng, zoom: 0.7, layers: [tiles]});
     		var markers = L.markerClusterGroup({
     			showCoverageOnHover: false,
@@ -42,4 +65,3 @@
     	</script>
     </body>
     </html>
-    

@@ -31,6 +31,71 @@
     }
   }
 
+  .publications-list {
+    max-width: 800px;
+    margin: 0 0 2em 0;
+    width: 100% !important;
+  }
+
+  .publications-list col:first-child {
+    width: 154px !important;
+  }
+
+  .publications-list td {
+    border: 0 !important;
+  }
+
+  .publication-section td {
+    padding: 1.35em 0 0.35em 0 !important;
+    border-bottom: 1px solid $border-color !important;
+  }
+
+  .publication-section:first-of-type td {
+    padding-top: 0 !important;
+  }
+
+  .publication-section h2 {
+    margin: 0 !important;
+    padding-bottom: 0.35em;
+    font-size: $type-size-4;
+  }
+
+  .publication-entry td {
+    padding-top: 0.72em !important;
+    padding-bottom: 0.72em !important;
+    vertical-align: middle !important;
+    border-bottom: 1px solid mix(#fff, $border-color, 45%) !important;
+  }
+
+  .publication-entry td:first-child {
+    padding-right: 18px !important;
+    width: 154px;
+  }
+
+  .publication-entry img {
+    display: block;
+    width: 136px !important;
+    height: 136px !important;
+    object-fit: cover !important;
+  }
+
+  .publication-entry td:nth-child(2) > span {
+    display: block;
+    font-size: $type-size-6 !important;
+    line-height: 1.32;
+  }
+
+  .publication-venue {
+    display: inline-block;
+    margin-top: 0.04em;
+    color: mix(#fff, $text-color, 35%);
+    font-size: 6pt;
+  }
+
+  .publications-list font[size="3"] {
+    font-size: 9pt;
+  }
+
   .talks-page {
     margin-top: 0.25em;
     max-width: 800px;
@@ -115,12 +180,12 @@
   }
 
   .talk-entry__title {
+    margin-top: 0.08em;
     font-size: $type-size-6;
     font-style: italic;
   }
 
   .talk-entry__venue {
-    margin-top: 0.08em;
     font-size: $type-size-6;
   }
 
