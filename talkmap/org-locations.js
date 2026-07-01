@@ -180,4 +180,12 @@ var addressPoints = [
     "Brin Mathematical Research Center at the University of Maryland - June 2026",
     38.99007708030171, -76.93621152072008
   ],
+  [
+    "IPAB Visitor Seminar at the University of Edinburgh - June 2026",
+    55.94479132378715, -3.187284520255523
+  ],
+  [
+    "Scientific Computing and Differential Equations (SciCADE) 2026 - July 2026",
+    55.943513752867396, -3.186220641585791
+  ]
 ];

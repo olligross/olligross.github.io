@@ -76,6 +76,9 @@ Previously, I was a postdoctoral researcher at [EPFL](https://www.epfl.ch/de/) w
 <div class="news-outer" aria-label="News">
   <div class="news-scroll" role="region" aria-live="polite">
     <ul>
+    <li><span class="news-date">07/26</span> Conference talk at <a href="https://scicade.org">SciCADE 2026</a>, <em>Vakonomic Fluids</em></li>
+    <li><span class="news-date">06/26</span> Talk at the <a href="https://informatics.ed.ac.uk/ipab/past-events">IPAB Visitor Seminar</a>, <a href="https://www.ed.ac.uk">University of Edinburgh, UK</a>, <em>Geometric Methods for Physics Simulation</em></li>
+
     <li><span class="news-date">06/26</span> Talk at the <a href="https://brinmrc.umd.edu/summer26-gpdecse/">Brin MRC workshop on Geometric PDE Challenges</a>, <a href="https://umd.edu">University of Maryland</a>, <em>Geometric Methods for Physics Simulation</em></li>
     <li><span class="news-date">04/26</span> Talk at the <a href="https://contextualrobotics.ucsd.edu">Contextual Robotics Institute</a>, <a href="https://ucsd.edu">UC San Diego</a>, <em>Geometric Methods in Motion Planning</em></li>
     <li><span class="news-date">04/26</span> Talk at the <a href="https://bioinspired.ucsd.edu">Bioinspired Robotics and Design Lab</a>, <a href="https://ucsd.edu">UC San Diego</a>, <em>Geometric Methods in Motion Planning</em></li>
