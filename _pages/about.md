@@ -76,6 +76,7 @@ Previously, I was a postdoctoral researcher at [EPFL](https://www.epfl.ch/de/) w
 <div class="news-outer" aria-label="News">
   <div class="news-scroll" role="region" aria-live="polite">
     <ul>
+    <li><span class="news-date">06/26</span> Short Course as part of the <a href="https://kaibohu.github.io/geofem/">ERC Starting Project GeoFEM</a> at the <a href="https://www.maths.ox.ac.uk">Mathematical Institute,</a> <a href="https://www.ox.ac.uk">University of Oxford, UK</a>, <em>Conformal Geometry in Ideal MHD</em></li>
     <li><span class="news-date">07/26</span> Conference talk at <a href="https://scicade.org">SciCADE 2026</a>, <em>Vakonomic Fluids</em></li>
     <li><span class="news-date">06/26</span> Talk at the <a href="https://informatics.ed.ac.uk/ipab/past-events">IPAB Visitor Seminar</a>, <a href="https://www.ed.ac.uk">University of Edinburgh, UK</a>, <em>Geometric Methods for Physics Simulation</em></li>
 

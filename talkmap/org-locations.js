@@ -187,5 +187,9 @@ var addressPoints = [
   [
     "Scientific Computing and Differential Equations (SciCADE) 2026 - July 2026",
     55.943513752867396, -3.186220641585791
+  ],
+  [
+    "SShort Course for the ERC Starting Project GeoFEM - July 2026",
+    51.76060826741208, -1.2625465437607846
   ]
 ];
