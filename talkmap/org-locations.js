@@ -189,7 +189,11 @@ var addressPoints = [
     55.943513752867396, -3.186220641585791
   ],
   [
-    "SShort Course for the ERC Starting Project GeoFEM - July 2026",
+    "Short Course for the ERC Starting Project GeoFEM - July 2026",
     51.76060826741208, -1.2625465437607846
+  ],
+  [
+    "Discrete Geometric Structures 2026 - August 2026",
+    48.19877912238055, 16.36883399275352
   ]
 ];

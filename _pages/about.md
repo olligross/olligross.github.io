@@ -76,7 +76,8 @@ Previously, I was a postdoctoral researcher at [EPFL](https://www.epfl.ch/de/) w
 <div class="news-outer" aria-label="News">
   <div class="news-scroll" role="region" aria-live="polite">
     <ul>
-    <li><span class="news-date">07/26</span> New preprint Arxiv: <a href="https://doi.org/10.48550/arXiv.2607.29654"><em>Elastic Curves via Geometric Mechanics</em></a></li>
+    <li><span class="news-date">08/26</span> New preprint Arxiv: <a href="https://doi.org/10.48550/arXiv.2607.29654"><em>Elastic Curves via Geometric Mechanics</em></a></li>
+    <li><span class="news-date">08/26</span> Conference talk at <a href="https://www.geometrie.tuwien.ac.at/ig/events/dgs2026/">Discrete Geometric Structures 2026</a>, <em>Discrete Elastic Curves from Isoperimetric Problems</em></li>
     <li><span class="news-date">07/26</span> New preprint Arxiv: <a href="https://doi.org/10.48550/arXiv.2607.18312"><em>Vakonomic Fluids</em></a></li>
     <li><span class="news-date">07/26</span> Short Course<!--- as part of the <a href="https://kaibohu.github.io/geofem/">ERC Starting Project GeoFEM</a>--> at the <a href="https://www.maths.ox.ac.uk">Mathematical Institute,</a> <a href="https://www.ox.ac.uk">University of Oxford, UK</a>, <em>Conformal Geometry in Ideal MHD</em></li>
     <li><span class="news-date">07/26</span> Conference talk at <a href="https://scicade.org">SciCADE 2026</a>, <em>Vakonomic Fluids</em></li>
