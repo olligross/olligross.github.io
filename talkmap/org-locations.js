@@ -195,5 +195,9 @@ var addressPoints = [
   [
     "Discrete Geometric Structures 2026 - August 2026",
     48.19877912238055, 16.36883399275352
+  ],
+  [
+    "Geometry for Digital Fabrication and Architecture - August 2026",
+    55.7851393253764, 12.52020275948418
   ]
 ];
