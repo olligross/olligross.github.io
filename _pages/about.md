@@ -110,7 +110,7 @@ Previously, I was a postdoctoral researcher at [EPFL](https://www.epfl.ch/de/) w
     <li><span class="news-date">11/24</span> Talk at the <a href="https://ist.ac.at/home">Institute of Science and Technology Austria</a>, <em>Conformal Geodesibility and Ideal MHD</em></li>
     <li><span class="news-date">06/24</span> Talk at <a href="https://www.kau.se/en/equadiff">EQUADIFF 2024</a>, <a href="https://www.kau.se/en">Karlstad University</a>, <em>Geometry of Plasma Knots</em></li>
     <li><span class="news-date">05/24</span> Defended my PhD thesis <em><a href="https://doi.org/10.14279/depositonce-20666">Conformal Geometry in Ideal Magnetohydrodynamics</a></em>, summa cum laude</li>
-    <li><span class="news-date">04/24</span> Poster with <a href="https://minirolab.nd.edu/team/phd-graduate-students/sean-even/">Sean Even</a> at the <a href="https://www.ttic.edu/mwrw/#call">2024 Midwest Robotics Workshop</a>, <em>Optimizing Robotic Snake Gait with Machine Learning and Shape Change Algorithms</em></li>
+    <li><span class="news-date">04/24</span> Poster with <a href="https://robotics.nd.edu/people/">Sean Even</a> at the <a href="https://www.ttic.edu/mwrw/#call">2024 Midwest Robotics Workshop</a>, <em>Optimizing Robotic Snake Gait with Machine Learning and Shape Change Algorithms</em></li>
     <li><span class="news-date">04/24</span> <a href="https://wiki.freitagsrunde.org/Datei:TT-CG-Houdini-Banner_April_2024.jpg">Workshop</a> on <em>Houdini for Computer Graphics</em>, <a href="https://www.tu.berlin/eecs">TU Berlin</a></li>
     <li><span class="news-date">03/24</span> Going with the Flow accepted to <em>ACM Transactions on Graphics</em>, SIGGRAPH 2024</li>
     <li><span class="news-date">02/24</span> Talk at the <a href="https://oden.utexas.edu">ODEN Institute</a>, <a href="https://www.utexas.edu">UT Austin</a>, <em>Geometric Approaches to Fluid Simulations</em></li>
@@ -131,7 +131,7 @@ Previously, I was a postdoctoral researcher at [EPFL](https://www.epfl.ch/de/) w
     <li><span class="news-date">03/23</span> Talk at the <a href="http://cmx.caltech.edu">CMX Student/Postdoc Seminar</a>, <a href="https://www.caltech.edu">Caltech</a>, <em>Filament Based Plasma</em></li>
     <li><span class="news-date">02/23</span> Talk at the <a href="http://www.bellanplasmagroup.caltech.edu">Bellan Plasma Group</a>, <a href="https://www.caltech.edu">Caltech</a>, <em>A Geometric Approach to Magnetic Relaxation</em></li>
     <li><span class="news-date">01/23</span> Began a research stay at <a href="https://www.caltech.edu">Caltech</a></li>
-    <li><span class="news-date">2023</span> <em>Filament Based Plasma</em> featured in the <a href="https://www.dfg.de/dfg_magazin/aus_der_forschung/dfg_kalender_2023/index.html">DFG Calendar</a></li>
+    <li><span class="news-date">2023</span> <em>Filament Based Plasma</em> featured in the <a href="https://www.discretization.de/gallery/model/119/">DFG Calendar</a></li>
     <li><span class="news-date">08/22</span> Talk at the <a href="https://www.geometrie.tuwien.ac.at/ig/events/dgs2022">Discrete Geometric Structures</a> workshop, Vienna, <em>Filament Based Plasma</em></li>
     <li><span class="news-date">08/22</span> Talk at <a href="https://s2022.siggraph.org/">SIGGRAPH 2022</a>, <em>Filament Based Plasma</em></li>
     <li><span class="news-date">07/22</span> Talk at <a href="https://ucsd.edu">UC San Diego</a>, <em>Lagrangian Modeling and Geometric Optimization in Plasma Physics</em></li>
@@ -223,4 +223,3 @@ I am currently collaborating with the groups of [Prof. Martin Rumpf](https://ins
   <div class="news-fade" aria-hidden="true"></div>
 </div>
 -->
-
