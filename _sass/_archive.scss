@@ -79,6 +79,11 @@
     object-fit: cover !important;
   }
 
+  .outreach-entry img {
+    object-fit: cover !important;
+    background: #fff;
+  }
+
   .publication-entry td:nth-child(2) > span {
     display: block;
     font-size: $type-size-6 !important;
@@ -94,6 +99,39 @@
 
   .publications-list font[size="3"] {
     font-size: 9pt;
+  }
+
+  .cv-list .publication-entry td {
+    vertical-align: top !important;
+  }
+
+  .cv-date {
+    display: block;
+    color: #777;
+    font-size: $type-size-6;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.32;
+  }
+
+  .cv-entry__title {
+    font-weight: 700;
+  }
+
+  .cv-entry__institution {
+    font-style: italic;
+  }
+
+  .cv-list .publication-venue {
+    display: block;
+  }
+
+  .cv-section-note {
+    max-width: 700px;
+    margin: 0.15em 0 0;
+    color: mix(#fff, $text-color, 35%);
+    font-size: $type-size-6;
+    font-weight: normal;
+    line-height: 1.4;
   }
 
   .talks-page {
@@ -196,6 +234,27 @@
   }
 
   @include breakpoint(max-width $small) {
+    .cv-list,
+    .cv-list tbody,
+    .cv-list tr,
+    .cv-list td {
+      display: block;
+      width: 100% !important;
+    }
+
+    .cv-list colgroup {
+      display: none;
+    }
+
+    .cv-list .publication-entry td:first-child {
+      padding: 0.72em 0 0.08em !important;
+      border-bottom: 0 !important;
+    }
+
+    .cv-list .publication-entry td:nth-child(2) {
+      padding: 0 0 0.72em !important;
+    }
+
     .talks-map-header {
       align-items: flex-start;
       flex-direction: column;
