@@ -199,5 +199,13 @@ var addressPoints = [
   [
     "Geometry for Digital Fabrication and Architecture - August 2026",
     55.7851393253764, 12.52020275948418
+  ],
+  [
+    "Computer Science Colloquium, UC Riverside - September 2026 - Geometry for Physics Simulation - Riverside, CA, USA",
+    33.97425584900788, -117.33060112531467
+  ],
+  [
+    "High-Fidelity Physics Research Group, NVIDIA (Online) - September 2026 - Geometry for Physics Simulation",
+    32.881591784282946, -117.23383553990067
   ]
 ];
