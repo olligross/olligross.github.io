@@ -207,5 +207,13 @@ var addressPoints = [
   [
     "High-Fidelity Physics Research Group, NVIDIA (Online) - September 2026 - Geometry for Physics Simulation",
     32.881591784282946, -117.23383553990067
+  ],
+  [
+    "Geometric Mechanics Group Seminar, Imperial College London (Online) - October 2026",
+    32.881591784282946, -117.23383553990067
+  ],
+  [
+    "Geometry/Topology Seminar, NC State University - October 2026 - Raleigh, NC, USA",
+    35.78474793202794, -78.66683558730563
   ]
 ];
