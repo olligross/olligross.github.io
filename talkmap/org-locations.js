@@ -215,5 +215,13 @@ var addressPoints = [
   [
     "Geometry/Topology Seminar, NC State University - October 2026 - Raleigh, NC, USA",
     35.78474793202794, -78.66683558730563
+  ],
+  [
+    "GRASP seminar, University of Pennsylvania - October 2026 - Geometry for Physics Simulation - Philadelphia, PA, USA",
+    39.9517963873872, -75.19107971557051
+  ],
+  [
+    "College of Connected Computing, Vanderbilt University - October 2026 - Geometry for Physics Simulation - Nashville, TN, USA",
+    36.14533231290297, -86.80145913509985
   ]
 ];
