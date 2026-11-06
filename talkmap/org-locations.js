@@ -223,5 +223,9 @@ var addressPoints = [
   [
     "College of Connected Computing, Vanderbilt University - October 2026 - Geometry for Physics Simulation - Nashville, TN, USA",
     36.14533231290297, -86.80145913509985
+  ],
+  [
+    "Department of Mathematics Colloquium, Texas A&M University - November 2026 - Geometry for Physics Simulation - College Station, TX, USA",
+    30.619677637783553, -96.3422945132259
   ]
 ];
