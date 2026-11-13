@@ -227,5 +227,9 @@ var addressPoints = [
   [
     "Department of Mathematics Colloquium, Texas A&M University - November 2026 - Geometry for Physics Simulation - College Station, TX, USA",
     30.619677637783553, -96.3422945132259
+  ],
+  [
+    "Applied & Interdisciplinary Mathematics Seminar, University of Michigan - November 2026 - Geometry for Physics Simulation - Ann Arbor, MI, USA",
+    42.275452757832596, -83.73538094647562
   ]
 ];
